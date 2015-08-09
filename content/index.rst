@@ -26,6 +26,11 @@ The conference will take place in the University of Applied Sciences in Rappersw
 
 The date is not yet fixed, it will be either end of January or beginning of February 2016.
 
+How to collaborate
+==================
+
+Have a look at the issue tracker, join the discussion and assign something to yourself https://github.com/SwissPy/swisspycon/issues. 
+
 Interested?
 ===========
 
