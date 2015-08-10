@@ -1,1 +1,4 @@
 vpelican/*
+output/
+*.pid
+*.pyc

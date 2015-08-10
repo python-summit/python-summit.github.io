@@ -4,7 +4,9 @@ Swiss Python Conference
 :date: 2015-10-03 10:20
 :slug: index_page
 :authors: ccdesales
-:summary: bla bla 
+:summary: bla bla
+:url: index.html
+:save_as: index.html
 
 
 After the nice experience of Europython 2015 a small group of enthusiasts came up with the idea of organizing a Swiss Python Conference.
@@ -22,7 +24,8 @@ Location & Date
 
 The conference will take place in the University of Applied Sciences in Rapperswil SG.
 
-![HSR](https://cloud.githubusercontent.com/assets/105168/8893359/bddb8cb4-338d-11e5-9132-ab82648678b4.jpg)
+.. image:: {filename}/images/hsr.jpg
+     :alt: University of Applied Sciences in Rapperswil SG
 
 The date is not yet fixed, it will be either end of January or beginning of February 2016.
 

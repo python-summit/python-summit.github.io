@@ -35,10 +35,8 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-#THEME = "/Users/cdesales/git/pelican-themes/sundown"
-#THEME = "/Users/cdesales/git/pelican-themes/storm"
-#THEME = "/Users/cdesales/git/pelican-themes/blue-penguin"
-THEME = "/Users/cdesales/git/pelican-themes/relapse"
+THEME = "./theme"
+OUTPUT_PATH="./swisspycon"
 
-OUTPUT_PATH="/Users/cdesales/git/swisspycon"
-
+STATIC_PATHS = ['images']
+PROFILE_IMAGE="./images/logo.png"
