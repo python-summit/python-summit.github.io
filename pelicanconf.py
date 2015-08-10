@@ -1,16 +1,12 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-
-AUTHOR = u'@ccdesales'
-SITENAME = u'Swiss Python Conference'
+AUTHOR = '@ccdesales'
+SITENAME = 'Swiss Python Conference'
 SITEURL = ''
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
