@@ -5,6 +5,9 @@ Swiss Python Conference
 :slug: index_page
 :authors: ccdesales
 :summary: bla bla 
+:save_as: index.html
+:tags: Conference, News
+:illustration: header.jpg
 
 
 After the nice experience of Europython 2015 a small group of enthusiasts came up with the idea of organizing a Swiss Python Conference.
