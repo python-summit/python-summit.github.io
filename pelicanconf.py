@@ -46,7 +46,7 @@ MENUITEMS = [
 ]
 
 # Add header background image from content/images : 'background.jpg'
-NEST_HEADER_IMAGES = ''
+NEST_HEADER_IMAGES = 'header.jpg'
 NEST_HEADER_LOGO = '/images/logo.png'
 
 # Footer
