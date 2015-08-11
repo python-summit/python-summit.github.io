@@ -40,3 +40,9 @@ OUTPUT_PATH="./swisspycon"
 
 STATIC_PATHS = ['images']
 PROFILE_IMAGE="./images/logo.png"
+
+MENU_ITEMS = (
+    ('Venue', '#'),
+    ('Registration', '#'),
+    ('Code of Conduct', '#'),
+)
