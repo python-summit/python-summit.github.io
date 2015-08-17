@@ -37,7 +37,7 @@ Have a look at the issue tracker, join the discussion and assign something to yo
 Interested?
 ===========
 
-You can check and add yourself to the list of interested people at https://github.com/SwissPy/swisspycon/wiki. In case you don't have a github account you can write an email to ccdesales@gmail.com
+You can use the following link to register as helper: http://bit.ly/1Jacnws. You can also join the mailing list to receive notifications of important announcements: http://bit.ly/1hj6uHB
 
 Code of Conduct
 ===============
