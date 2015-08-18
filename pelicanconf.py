@@ -39,10 +39,13 @@ THEME = 'nest'
 # Minified CSS
 NEST_CSS_MINIFY = True
 
-# Add items to top menu before pages
+# Add items to top menu
+DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [
-    ('Homepage', '/'),
-    ('Categories','/categories.html'),
+    ('Home', '/'),
+    ('Call For Helpers','/pages/call-for-helpers.html'),
+    ('Call For Proposals','/pages/call-for-proposals.html'),
+    ('CoC','/pages/code-of-conduct.html'),
 ]
 
 # Add header background image from content/images : 'background.jpg'
