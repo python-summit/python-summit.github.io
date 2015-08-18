@@ -61,7 +61,10 @@ help:
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
 	@echo '                                                                          '
 
-html:
+compress:
+	cat nest/static/css/{bootstrap.min.css,fonts.css,nest.css,pygment.css} | cssmin --wrap 99 > nest/static/css/all.min.css
+
+html: compress
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
