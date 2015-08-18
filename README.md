@@ -4,9 +4,9 @@ Repository for the source code of the Swiss Python Conference web site.
 
 ## Development
 
-Clone the repository including submodules.
+Clone the repository.
 
-    git clone --recursive https://github.com/SwissPy/SwissPy.github.io
+    git clone https://github.com/SwissPy/SwissPy.github.io
 
 Switch to the `source` branch.
 
