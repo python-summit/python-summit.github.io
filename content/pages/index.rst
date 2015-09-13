@@ -1,5 +1,5 @@
-Swiss Python Conference
-#######################
+Swiss Python Summit
+###################
 
 :date: 2015-10-03 10:20
 :slug: index_page

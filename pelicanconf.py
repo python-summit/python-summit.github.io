@@ -1,5 +1,5 @@
 AUTHOR = '@ccdesales'
-SITENAME = 'Swiss Python Conference'
+SITENAME = 'Swiss Python Summit'
 SITESUBTITLE = 'A Swiss Python Conference'
 SITEURL = 'https://swisspy.github.io/swisspycon/'
 
@@ -71,7 +71,7 @@ NEST_FOOTER_HTML = ''
 
 # index.html
 NEST_INDEX_HEAD_TITLE = u'Homepage'
-NEST_INDEX_HEADER_TITLE = u'Swiss Python Conference'
+NEST_INDEX_HEADER_TITLE = u'Swiss Python Summit'
 NEST_INDEX_HEADER_SUBTITLE = u'February 5<sup>th</sup> 2016, Rapperswil SG'
 NEST_INDEX_CONTENT_TITLE = u'Last Posts'
 
