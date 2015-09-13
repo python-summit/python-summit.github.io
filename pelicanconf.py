@@ -51,6 +51,7 @@ MENUITEMS = [
 # Add header background image from content/images : 'background.jpg'
 NEST_HEADER_IMAGES = 'header.jpg'
 NEST_HEADER_LOGO = '/images/logo.png'
+NEST_HEADER_OPACITY = '0.5'
 
 # Footer
 NEST_SITEMAP_COLUMN_TITLE = u'Sitemap'

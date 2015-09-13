@@ -77,7 +77,7 @@
         <!-- Header -->
         {% block headerstyle %}
             {% if NEST_HEADER_IMAGES %}
-            <div class="header-container" style="background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('{{ SITEURL }}/images/{{ NEST_HEADER_IMAGES }}'); background-position: center; ">
+            <div class="header-container header-image" style="background: linear-gradient(rgba(0, 0, 0, {{ NEST_HEADER_OPACITY }}), rgba(0, 0, 0, {{ NEST_HEADER_OPACITY }})), url('{{ SITEURL }}/images/{{ NEST_HEADER_IMAGES }}'); background-position: center; ">
             {% else %}
             <div class="header-container gradient">
             {% endif %}
