@@ -37,7 +37,7 @@ RELATIVE_URLS = True
 THEME = 'nest'
 
 # Minified CSS
-NEST_CSS_MINIFY = True
+NEST_CSS_MINIFY = False
 
 # Add items to top menu
 DISPLAY_PAGES_ON_MENU = False
