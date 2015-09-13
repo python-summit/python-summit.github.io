@@ -64,7 +64,7 @@ NEST_SITEMAP_ATOM_LINK = u'Atom Feed'
 NEST_SITEMAP_RSS_LINK = u'RSS Feed'
 NEST_SOCIAL_COLUMN_TITLE = u'Social'
 NEST_LINKS_COLUMN_TITLE = u'Links'
-NEST_COPYRIGHT = u'&copy; blogname 2015'
+NEST_COPYRIGHT = u'&copy; 2015 Swiss Python Summit'
 
 # Footer optional
 NEST_FOOTER_HTML = ''
