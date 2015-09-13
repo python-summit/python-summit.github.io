@@ -1,5 +1,5 @@
 Imprint
 =======
 
-Header image is CC BY-NC-ND 2.0 Jens Grabenstein
-(https://www.flickr.com/photos/grabenstein/). Thank you!
+Header image is CC BY-SA 3.0 Roland zh
+(https://commons.wikimedia.org/wiki/User:Roland_zh). Thank you!
