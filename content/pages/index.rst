@@ -21,7 +21,7 @@ History
 
 After the nice experience of Europython 2015 a small group of enthusiasts came up with the idea of organizing a Swiss Python Conference.
 
-As with software development, we think is a good idea to start with something simple to proof that it can be done, a minimal viable product.
+As with software development, we think is a good idea to start with something simple to prove that it can be done, a minimal viable product.
 
 We can keep the costs down to zero if we manage to do the following:
 
