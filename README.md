@@ -28,6 +28,7 @@ Now you can browse the website at `http://localhost:8000/`.
 For deploying the website, the rendered HTML needs to be pushed to the `master`
 branch. This can be done via the `Makefile` and the `ghp-import` script:
 
+    make clean html
     make github
 
 The current version should be live now.
