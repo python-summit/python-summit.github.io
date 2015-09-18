@@ -50,7 +50,7 @@ MENUITEMS = [
 
 # Add header background image from content/images : 'background.jpg'
 NEST_HEADER_IMAGES = 'header.jpg'
-NEST_HEADER_LOGO = '/images/logo.png'
+NEST_HEADER_LOGO = '/images/python-summit.svg'
 NEST_HEADER_OPACITY = '0.3'
 
 # Footer
