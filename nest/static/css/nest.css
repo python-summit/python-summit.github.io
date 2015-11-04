@@ -440,3 +440,22 @@ blockquote{
 .footer a{
     color: #fff;
 }
+
+
+/* Registration Callout */
+#registration-is-now-open {
+    background-color: #FFF4AC;
+    padding: 1em;
+}
+#registration-is-now-open p {
+    font-size: 1em;
+    margin: 0;
+}
+
+#registration-is-now-open h2 {
+    margin: 0 0 1em 0;
+}
+
+#registration-is-now-open h2::after {
+    display: none;
+}

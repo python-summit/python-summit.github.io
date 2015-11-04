@@ -4,15 +4,26 @@ Swiss Python Summit
 :date: 2015-10-03 10:20
 :slug: index_page
 :authors: ccdesales
-:summary: bla bla 
+:summary: bla bla
 :save_as: index.html
 :tags: Conference, News
 :illustration: header.jpg
 
+Registration is now open
+========================
+
+`Click here to register <./pages/registration.html>`_.
+
 A Python Conference in Switzerland
 ==================================
 
-The first Swiss Python conference will take place on **February 5th, 2016** at **HSR University of Applied Sciences in Rapperswil**.
+The first Swiss Python conference will take place on **February 5th, 2016** at
+**HSR University of Applied Sciences in Rapperswil**.
+
+This summit is all about the programming language you love! 
+Discover the wide field of Python applications, hear how others use the snake
+and meet Swiss Pythonistas. The conference is suited for all skill levels, 
+from early beginners to expert developers.
 
 .. image:: /images/hsr.jpg
 
@@ -32,14 +43,14 @@ the costs and the organizational effort very low:
 * Lunch will be paid by attendees themselves
 * At this time, we cannot offer speakers or helpers any compensation
 
-How to collaborate
+How to Collaborate
 ==================
 
 Have a look at the issue tracker, join the discussion and assign something to
-yourself https://github.com/SwissPy/swisspycon/issues. 
+yourself https://github.com/SwissPy/swisspycon/issues.
 
-Interested?
-===========
+Want to Help?
+=============
 
 You can use the following link to register as helper: http://bit.ly/1Jacnws. You
 can also join the mailing list to receive notifications of important

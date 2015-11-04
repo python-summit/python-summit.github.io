@@ -5,6 +5,7 @@ Call for Proposals
 :summary: Call for Proposals
 
 Call for proposals is open!
+===========================
 
 We are delighted to announce the call for proposals for our conference is open! Please submit your talk proposals, with the following guidelines.
 
