@@ -66,6 +66,15 @@ You can use the following link to register as helper: http://bit.ly/1Jacnws. You
 can also join the mailing list to receive notifications of important
 announcements: http://bit.ly/1hj6uHB
 
+Spread the Word
+===============
+
+Be the first amgonst your friends and colleagues to hang up our awesome poster:
+
+* `Poster as PDF <./images/poster.pdf>`_
+* `Poster as PNG (small) <./images/poster-small.png>`_
+* `Poster as PNG (large) <./images/poster-big.png>`_
+
 Code of Conduct
 ===============
 
