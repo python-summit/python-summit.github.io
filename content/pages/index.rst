@@ -43,6 +43,16 @@ the costs and the organizational effort very low:
 * Lunch will be paid by attendees themselves
 * At this time, we cannot offer speakers or helpers any compensation
 
+Program
+=======
+
+We are still calling for proposals until the end of November. Please do propose
+your talk now to receive geek cred and bragging rights in the future:
+
+`Propose Your Talk <http://www.python-summit.ch/pages/call-for-proposals.html>`_
+
+The final program will be published in December.
+
 How to Collaborate
 ==================
 
