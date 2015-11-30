@@ -160,11 +160,15 @@
                         {% endif %}
                     </div>
                     <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                        <p class="pull-right">
+                            <ul class="list-unstyled text-right">
+                                <li><small>{{ NEST_COPYRIGHT }}</small></li>
+                                {% if NEST_FOOTER_HTML %}<li><small>{{ NEST_FOOTER_HTML }}</small></li>{% endif %}
+                            </ul>
+                        </p>
                         <p class="pull-right text-right">
                             <small><em>Proudly powered by <a href="http://docs.getpelican.com/" target="_blank">pelican</a></em></small><br/>
                             <small><em>Theme based on code by <a href="https://github.com/molivier" target="_blank">molivier</a></em></small><br/>
-                            <small>{{ NEST_COPYRIGHT }}</small>
-                            {% if NEST_FOOTER_HTML %}<small><em>{{ NEST_FOOTER_HTML }}</em></small>{% endif %}
                         </p>
                     </div>
                 </div>

@@ -20,9 +20,9 @@ A Python Conference in Switzerland
 The first Swiss Python conference will take place on **February 5th, 2016** at
 **HSR University of Applied Sciences in Rapperswil**.
 
-This summit is all about the programming language you love! 
+This summit is all about the programming language you love!
 Discover the wide field of Python applications, hear how others use the snake
-and meet Swiss Pythonistas. The conference is suited for all skill levels, 
+and meet Swiss Pythonistas. The conference is suited for all skill levels,
 from early beginners to expert developers.
 
 .. image:: /images/hsr.jpg
@@ -90,3 +90,10 @@ discretion of the conference organisers.
 
 See `/pages/code-of-conduct.html </pages/code-of-conduct.html>`__ for the full
 code of conduct.
+
+Contact
+=======
+
+If you have any questions or requests contact us directly on
+`GitHub <https://github.com/SwissPy/swisspycon>`_ or through email
+(`info@python-summit.ch <info@python-summit.ch>`_).
