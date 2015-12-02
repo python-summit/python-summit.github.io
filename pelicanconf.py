@@ -45,7 +45,7 @@ MENUITEMS = [
     ('Home', '/'),
     ('Register', '/pages/registration.html'),
     ('Help us','/pages/call-for-helpers.html'),
-    ('Propose a talk','/pages/call-for-proposals.html'),
+    #('Propose a talk','/pages/call-for-proposals.html'),
     ('CoC','/pages/code-of-conduct.html'),
 ]
 

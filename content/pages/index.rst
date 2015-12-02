@@ -46,12 +46,7 @@ the costs and the organizational effort very low:
 Program
 =======
 
-We are still calling for proposals until the end of November. Please do propose
-your talk now to receive geek cred and bragging rights in the future:
-
-`Propose Your Talk <http://www.python-summit.ch/pages/call-for-proposals.html>`_
-
-The final program will be published in December.
+The call for proposals is now closed, we will publish the final program soon.
 
 How to Collaborate
 ==================
