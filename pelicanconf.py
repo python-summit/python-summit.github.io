@@ -57,9 +57,9 @@ NEST_HEADER_OPACITY = '0.3'
 # Footer
 NEST_SITEMAP_COLUMN_TITLE = u'Sitemap'
 NEST_SITEMAP_MENU = [
-    ('Archives', '/archives.html'),
-    ('Tags','/tags.html'),
-    ('Authors','/authors.html'),
+    #('Archives', '/archives.html'),
+    #('Tags','/tags.html'),
+    #('Authors','/authors.html'),
     ('Imprint','/pages/imprint'),
 ]
 NEST_SITEMAP_ATOM_LINK = u'Atom Feed'
