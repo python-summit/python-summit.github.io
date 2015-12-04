@@ -27,6 +27,35 @@
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
 
+        
+        <script src="https://maps.googleapis.com/maps/api/js"></script>
+        <script>
+        function initialize() {
+            var maps = document.getElementsByClassName('map');
+
+            for (var i=0; i<maps.length; i++) {
+                var element = maps[i];
+                var title = element.getAttribute('data-title');
+                var lon = parseFloat(element.getAttribute('data-lon'));
+                var lat = parseFloat(element.getAttribute('data-lat'));
+                var zoom = parseInt(element.getAttribute('data-zoom', 10));
+
+                var options = {
+                    center: new google.maps.LatLng(lat, lon),
+                    zoom: zoom,
+                    mapTypeId: google.maps.MapTypeId.ROADMAP
+                };
+
+                var map = new google.maps.Map(element, options);
+                var maker = new google.maps.Marker({
+                    position: new google.maps.LatLng(lat, lon),
+                    map: map,
+                    title: title
+                });
+            }
+        }
+        google.maps.event.addDomListener(window, 'load', initialize);    
+        </script>
 
     </head>
 
@@ -44,6 +73,7 @@
                     <div class="nav pull-right">
                                 <a href="/">Home</a>
                                 <a href="/pages/registration.html">Register</a>
+                                <a href="/pages/venue.html">Venue</a>
                                 <a href="/pages/call-for-helpers.html">Help us</a>
                                 <a href="/pages/code-of-conduct.html">CoC</a>
                     </div>
