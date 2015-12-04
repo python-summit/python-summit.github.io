@@ -459,3 +459,9 @@ blockquote{
 #registration-is-now-open h2::after {
     display: none;
 }
+
+/* Maps */
+.map {
+    width: 100%;
+    height: 500px;
+}

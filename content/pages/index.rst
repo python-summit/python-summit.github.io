@@ -26,6 +26,7 @@ and meet Swiss Pythonistas. The conference is suited for all skill levels,
 from early beginners to expert developers.
 
 .. image:: /images/hsr.jpg
+    :alt: Aerial view of HSR
 
 History
 =======

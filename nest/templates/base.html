@@ -68,6 +68,35 @@
         </script>
         <!-- /Google Analytics -->
         {% endif %}
+        
+        <script src="https://maps.googleapis.com/maps/api/js"></script>
+        <script>
+        function initialize() {
+            var maps = document.getElementsByClassName('map');
+
+            for (var i=0; i<maps.length; i++) {
+                var element = maps[i];
+                var title = element.getAttribute('data-title');
+                var lon = parseFloat(element.getAttribute('data-lon'));
+                var lat = parseFloat(element.getAttribute('data-lat'));
+                var zoom = parseInt(element.getAttribute('data-zoom', 10));
+
+                var options = {
+                    center: new google.maps.LatLng(lat, lon),
+                    zoom: zoom,
+                    mapTypeId: google.maps.MapTypeId.ROADMAP
+                };
+
+                var map = new google.maps.Map(element, options);
+                var maker = new google.maps.Marker({
+                    position: new google.maps.LatLng(lat, lon),
+                    map: map,
+                    title: title
+                });
+            }
+        }
+        google.maps.event.addDomListener(window, 'load', initialize);    
+        </script>
 
     {% endblock head %}
     </head>
