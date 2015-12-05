@@ -48,6 +48,7 @@ MENUITEMS = [
     ('Help us','/pages/call-for-helpers.html'),
     #('Propose a talk','/pages/call-for-proposals.html'),
     ('CoC','/pages/code-of-conduct.html'),
+    ('Jobs','/pages/jobs.html'),
 ]
 
 # Add header background image from content/images : 'background.jpg'
