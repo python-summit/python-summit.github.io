@@ -48,6 +48,11 @@
                     .setView([lat, lon], zoom);
 
                 L.marker([lat, lon]).addTo(map);
+
+                L.control.layers({
+                    'Map View': L.mapbox.tileLayer('mapbox.streets').addTo(map),
+                    'Satellite View': L.mapbox.tileLayer('mapbox.satellite')
+                }).addTo(map);
             }
         });
         </script>
