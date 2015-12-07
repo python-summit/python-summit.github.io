@@ -12,7 +12,7 @@ Map
 
 .. raw:: html
 
-    <div class="map" data-lat="47.2236" data-lon="8.8181" data-zoom="15"
+    <div class="map" data-lat="47.22348" data-lon="8.81741" data-zoom="15"
         data-title="HSR University of Applied Sciences">
     </div>
 
