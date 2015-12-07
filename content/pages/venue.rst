@@ -36,12 +36,18 @@ Parking is available at HSR for the whole day. The rates are rather pricey
 though, so be warned. You do not get any discounts or free parking by
 attending the conference.
 
+Registration Desk
+=================
+
+The registration desk will be situated at the cafeteria in building 1. This is
+also where we will have the breaks in between sessions.
+
 Auditorium
 ==========
 
-The talks are held at an auditorium fitting up to 125 people. We will make
-sure that there is ample information on how to get there from the general
-entrance by putting up signs on the day of the conference.
+The talks are held at an auditorium (room number 3.008) fitting up to 125 people.
+We will make sure that there is ample information on how to get there from the
+registration desk by putting up signs on the day of the conference.
 
 .. image:: /images/room-1.jpg
     :alt: View from the speaker's position
