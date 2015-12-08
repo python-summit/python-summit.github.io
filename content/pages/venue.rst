@@ -55,4 +55,15 @@ registration desk by putting up signs on the day of the conference.
 .. image:: /images/room-2.jpg
     :alt: View from the middle of the room
 
-Each seat has one electrical plug. Free WiFi is available.
+Each seat has one electrical plug. Note that if you do not have a Swiss plug
+(`SEV 1011 <https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets#Swiss_SEV_1011>`_),
+you will probably need an adapter. See
+`"Do I need a specific power adapter when travelling in Switzerland?"
+<https://www.quora.com/Switzerland/Do-I-need-a-specific-power-adapter-when-travelling-in-Switzerland-or-can-an-EU-adapter-be-used-with-Swiss-power-outlets>`_.
+
+Free WiFi is available.
+
+Accessibility
+=============
+
+The venue is fully accessible by wheelchair.
