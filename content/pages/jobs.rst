@@ -7,4 +7,5 @@ Job Board
 Are you offering or looking for a job?
 ======================================
 
-There will be a wall or flipchart where everyone can make job related announcements.
+There will be a "job board", where everyone that is either offering a job or
+looking for a job can put up an A4 paper with information on it.
