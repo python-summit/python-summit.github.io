@@ -470,6 +470,7 @@ blockquote{
 table#program {
     border: 0px;
     margin-top: 40px;
+    width: 100%;
 }
 
 table#program .col-time {
@@ -491,4 +492,18 @@ table#program th, table#program td {
 
 table#program .meta {
     font-style: italic;
+}
+
+table#program .description {
+    font-size: 0.9em;
+    padding-top: 1em;
+}
+
+table#program .description strong {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.hidden {
+    display: none;
 }
