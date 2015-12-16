@@ -47,7 +47,7 @@ the costs and the organizational effort very low:
 Program
 =======
 
-The call for proposals is now closed, we will publish the final program soon.
+The program has been published `here </pages/program.html>`__.
 
 How to Collaborate
 ==================
