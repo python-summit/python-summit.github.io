@@ -703,7 +703,10 @@ blockquote{font-size:15px;opacity:.65}.comments{margin-top:40px}.mr5{margin-righ
 .footer-title{text-transform:uppercase;margin-bottom:3px;font-weight:600;font-size:12px}.footer-container{padding-top:20px;padding-bottom:20px}
 .footer a{color:#fff}#registration-is-now-open{background-color:#FFF4AC;padding:1em}#registration-is-now-open p{font-size:1em;margin:0}
 #registration-is-now-open h2{margin:0 0 1em 0}#registration-is-now-open h2::after{display:none}.map{width:100%;min-height:500px}
-.highlight .hll{background-color:#49483e}.highlight .c{color:#75715e}.highlight .err{color:#960050;background-color:#1e0010}
+table#program{border:0;margin-top:40px;width:100%}table#program .col-time{width:120px}table#program td{vertical-align:top}
+table#program td.topspace{padding-top:10px}table#program th,table#program td{padding:3px;border-bottom:1px solid #ddd}
+table#program .meta{font-style:italic}table#program .description{font-size:.9em;padding-top:1em}table#program .description strong{display:inline-block;margin-top:1em}
+.hidden{display:none}.highlight .hll{background-color:#49483e}.highlight .c{color:#75715e}.highlight .err{color:#960050;background-color:#1e0010}
 .highlight .k{color:#66d9ef}.highlight .l{color:#ae81ff}.highlight .n{color:#f8f8f2}.highlight .o{color:#f92672}
 .highlight .p{color:#f8f8f2}.highlight .cm{color:#75715e}.highlight .cp{color:#75715e}.highlight .c1{color:#75715e}
 .highlight .cs{color:#75715e}.highlight .ge{font-style:italic}.highlight .gs{font-weight:bold}.highlight .kc{color:#66d9ef}

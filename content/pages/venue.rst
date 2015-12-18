@@ -36,6 +36,10 @@ Parking is available at HSR for the whole day. The rates are rather pricey
 though, so be warned. You do not get any discounts or free parking by
 attending the conference.
 
+There are many other parking possibilities in the area though. You can find more
+information `in this PDF </files/parking.pdf>`__. The best option is probably
+next to the zoo (called "Südquartier, Lido", number 7 on the map).
+
 Registration Desk
 =================
 
