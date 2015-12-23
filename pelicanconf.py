@@ -19,13 +19,14 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-	#('Pelican', 'http://getpelican.com/'),
+    ('HSR (Venue)', 'http://hsr.ch/'),
+    ('Public Transport', 'https://online.fahrplan.zvv.ch/bin/query.exe/dn?Z=Rapperswil%20SG&date=05.02.2016&time=08%3A30&start=1&REQ0HafasSearchForw=0'),
+
 )
 
 # Social widget
 SOCIAL = (
-	#('You can add links in your config file', '#'),
-        #('Another social link', '#'),
+    ('Twitter', 'https://twitter.com/pythonsummit'),
 )
 
 DEFAULT_PAGINATION = False
@@ -46,10 +47,10 @@ MENUITEMS = [
     ('Register', '/pages/registration.html'),
     ('Program', '/pages/program.html'),
     ('Venue', '/pages/venue.html'),
-    ('Help us','/pages/call-for-helpers.html'),
+    ('Help us', '/pages/call-for-helpers.html'),
     #('Propose a talk','/pages/call-for-proposals.html'),
-    ('CoC','/pages/code-of-conduct.html'),
-    ('Jobs','/pages/jobs.html'),
+    ('CoC', '/pages/code-of-conduct.html'),
+    ('Jobs', '/pages/jobs.html'),
 ]
 
 # Add header background image from content/images : 'background.jpg'

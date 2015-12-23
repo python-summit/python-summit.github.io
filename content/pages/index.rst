@@ -93,3 +93,6 @@ Contact
 If you have any questions or requests contact us directly on
 `GitHub <https://github.com/SwissPy/swisspycon>`_ or through email
 (`info@python-summit.ch <info@python-summit.ch>`_).
+
+You can also `follow us on Twitter <https://twitter.com/pythonsummit>`__ for
+news.
