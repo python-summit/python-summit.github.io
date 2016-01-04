@@ -9,10 +9,10 @@ Swiss Python Summit
 :tags: Conference, News
 :illustration: header.jpg
 
-Registration is now open
-========================
+Registration Closed
+===================
 
-`Click here to register <./pages/registration.html>`_.
+We are **fully booked** and are therefore unable to take anymore registrations.
 
 A Python Conference in Switzerland
 ==================================
