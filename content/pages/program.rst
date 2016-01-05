@@ -218,6 +218,10 @@ to put together an amazing and very diverse program!
                 <td>17:10 – 17:20</td>
                 <td class="meta">Closing</td>
             </tr>
+            <tr>
+                <td>17:20 – 20:00</td>
+                <td>Social Event / Apéro</td>
+            </tr>
         </tbody>
     </table>
 
