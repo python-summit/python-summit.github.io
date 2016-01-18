@@ -11,15 +11,17 @@ The conference is approaching, and we still need a lot of helpers! If you wish
 to help, especially if you already signed up, please contact us at
 **info@python-summit.ch**.
 
+The conference is already booked out, but if you haven't registered yet, we can
+try to get you on the list anyways, but can't guarantee it anymore at this
+point.
+
+As we're a non-profit conference and need the entrance fee of 10 CHF to cover
+running costs, unfortuantely you will still have to pay the entrance fee (except
+if you're HSR student). You will get a free staff t-shirt though!
+
 We need helpers in the following areas. If you contact us, please let us know
 which areas would interest you. We'll then try to come up with a schedule that
 suits everybody.
-
-The conference is already booked out, but if you haven't registered yet, we can
-try to get you on the list anyways, but can't guarantee it anymore at this
-point. As we're a non-profit conference and need the entrance fee of 10 CHF to
-cover running costs, unfortuantely you will still have to pay the entrance fee
-(except if you're HSR student). You will get a free staff t-shirt though!
 
 Registration desk (08:15-09:45)
 -------------------------------
