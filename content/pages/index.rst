@@ -9,14 +9,13 @@ Swiss Python Summit
 :tags: Conference, News
 :illustration: header.jpg
 
-Registration Closed
-===================
+Few Places Left
+===============
 
-We are **fully booked** and are therefore unable to take anymore registrations.
-
-We still need a lot of helpers though. Please take a look at the `Call for
-Helpers </pages/call-for-helpers.html>`__, especially if you already signed up
-for the conference!
+Due to cancellations, there are very few places left! Please e-mail us at
+`info@python-summit.ch
+<mailto:info@python-summit.ch?subject=I%20want%20to%20attend!>`__ if you'd like
+to get on the waiting list.
 
 A Python Conference in Switzerland
 ==================================
