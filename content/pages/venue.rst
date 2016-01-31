@@ -71,3 +71,15 @@ Accessibility
 =============
 
 The venue is fully accessible by wheelchair.
+
+Talk Hardware
+=============
+
+If you are having a talk at the summit you can expect the following hardware:
+
+* You'll get a wireless headset for recording and amplification.
+* We have video adapters for you (but do bring your own just in case).
+* Your presentation will be shown with a resolution of 1920x1200 (16:10).
+
+If you plan to have output audio of any kind, do let us know beforehand as we
+have to integrate that into our recording.
