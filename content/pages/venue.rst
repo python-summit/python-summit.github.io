@@ -83,3 +83,12 @@ If you are having a talk at the summit you can expect the following hardware:
 
 If you plan to have output audio of any kind, do let us know beforehand as we
 have to integrate that into our recording.
+
+Job Board
+=========
+
+We are going to have a wall with open jobs. If you want to advertise an open
+position do print information about it vertically on an A4 Page and we'll
+hang it up on the wall.
+
+We will also have some empty pages available for ad-hoc job postings.
