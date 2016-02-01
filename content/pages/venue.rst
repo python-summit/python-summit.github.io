@@ -88,7 +88,7 @@ Job Board
 =========
 
 We are going to have a wall with open jobs. If you want to advertise an open
-position do print information about it vertically on an A4 Page and we'll
-hang it up on the wall.
+position do print information about it on an A4 page (in portrait orientation)
+and we'll hang it up on the wall.
 
 We will also have some empty pages available for ad-hoc job postings.
