@@ -37,8 +37,11 @@ though, so be warned. You do not get any discounts or free parking by
 attending the conference.
 
 There are many other parking possibilities in the area though. You can find more
-information `in this PDF </files/parking.pdf>`__. The best option is probably
-next to the zoo (called "Südquartier, Lido", number 7 on the map).
+information `in this PDF </files/parking.pdf>`__. The best option is probably to
+get a `P+Rail day card
+<https://www.sbb.ch/bahnhof-services/auto-velo/parkieren/am-bahnhof-parkieren.marketingurl_$$$parking.html>`__
+and to park next to the train station (P10 on the map). An alternative would be
+next to the zoo (called "Südquartier, Lido", P7 on the map).
 
 Registration Desk
 =================
@@ -78,7 +81,8 @@ Talk Hardware
 If you are having a talk at the summit you can expect the following hardware:
 
 * You'll get a wireless headset for recording and amplification.
-* We have video adapters for you (but do bring your own just in case).
+* The projectors have HDMI and VGA connectors. We should have video adapters for
+  you, but do bring your own to be on the safe side.
 * Your presentation will be shown with a resolution of 1920x1200 (16:10).
 
 If you plan to have output audio of any kind, do let us know beforehand as we
