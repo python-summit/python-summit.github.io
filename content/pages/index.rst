@@ -15,7 +15,7 @@ Registration Closed
 We are **fully booked** and are therefore unable to take anymore registrations.
 
 If you want to get on the waiting list, feel free to send an e-mail to
-<mailto:info@python-summit.ch?subject=Please%20put%20me%20on%20the%20waiting%list>`__.
+`info@python-summit.ch <mailto:info@python-summit.ch?subject=Please%20put%20me%20on%20the%20waiting%20list>`__.
 We can't guarantee anything though.
 
 A Python Conference in Switzerland
