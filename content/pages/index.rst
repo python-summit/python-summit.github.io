@@ -44,7 +44,7 @@ the costs and the organizational effort very low:
 
 * It will be a one day event
 * The venue is free / sponsored
-* Entry fee will be very low or even free, collection of fees will happen at the venue itself
+* The entry fee will only be 10 CHF - this will be collected at registration
 * Lunch will be paid by attendees themselves
 * At this time, we cannot offer speakers or helpers any compensation
 
