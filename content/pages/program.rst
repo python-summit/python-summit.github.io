@@ -24,7 +24,7 @@ to put together an amazing and very diverse program!
         <tbody>
             <tr>
                 <td>08:30 – 09:00</td>
-                <td class="meta">Registration (open until 09:15)</td>
+                <td class="meta">Registration + Coffee (open until 09:15)</td>
             </tr>
             <tr>
                 <td>09:00 – 09:15</td>
