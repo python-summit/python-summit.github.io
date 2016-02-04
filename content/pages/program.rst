@@ -220,7 +220,7 @@ to put together an amazing and very diverse program!
             </tr>
             <tr>
                 <td>17:20 – 20:00</td>
-                <td>Social Event / Apéro</td>
+                <td>Social Event / Apéro (sponsored by <a href="http://beekeeper.ch/">Beekeeper</a></td>
             </tr>
         </tbody>
     </table>
