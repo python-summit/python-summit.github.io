@@ -239,9 +239,9 @@ to put together an amazing and very diverse program!
 Aperitif 
 ========
 
-Right after the conference we'll have a small aperitif at HSR's cafeteria.
-There will be soft drinks, water, beer and sandwiches free of charge for all
-conference attendees.
+Right after the conference we'll have a small aperitif at HSR's cafeteria,
+sponsored by `Beekeeper <http://beekeeper.ch/>`_. There will be soft drinks,
+water, beer and sandwiches free of charge for all conference attendees.
 
 Key Signing Event
 =================
