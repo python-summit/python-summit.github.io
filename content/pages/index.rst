@@ -9,12 +9,27 @@ Swiss Python Summit
 :tags: Conference, News
 :illustration: header.jpg
 
-Registration Closed
-===================
+The First Swiss Python Summit is Over!
+======================================
 
-We are **fully booked** and are therefore unable to take anymore registrations.
-At this point there's also no waiting list anymore as we finalize everything
-for the big day.
+The conference was a big success. We had 9 great talks and got a lot of
+positive feedback from the 114 attendees and speakers.
+
+We'd like to thank all people that helped at the conference or presented a talk.
+Without you, the first Swiss Python conference would not have been possible!
+
+Thanks also to the `HSR <https://www.hsr.ch/>`__ that hosted us as well as our
+sponsors `Divio <https://www.divio.com/>`__, `Beekeeper
+<http://beekeeper.ch/de/>`__, `Seantis <https://seantis.ch/>`__ and `Webrepublic
+<https://webrepublic.com/>`__.
+
+If you're interested in making another edition of the conference happen and
+would like to help, please contact us at `info@python-summit.ch
+<mailto:info@python-summit.ch>`__.
+
+If everything went fine during the recording, we will publish the recorded
+talks during the next weeks. Stay tuned!
+
 
 A Python Conference in Switzerland
 ==================================
