@@ -701,8 +701,9 @@ h4:after{display:block;content:" ";margin-top:10px;width:40px;border-bottom:3px 
 blockquote{font-size:15px;opacity:.65}.comments{margin-top:40px}.mr5{margin-right:5px}.mr20{margin-right:20px}
 .gradient{background-color:#356689}.footer{background-color:#333;font-size:14px;font-weight:300;text-align:left;color:#fff}
 .footer-title{text-transform:uppercase;margin-bottom:3px;font-weight:600;font-size:12px}.footer-container{padding-top:20px;padding-bottom:20px}
-.footer a{color:#fff}#registration-is-now-open{background-color:#FFF4AC;padding:1em}#registration-is-now-open p{font-size:1em;margin:0}
-#registration-is-now-open h2{margin:0 0 1em 0}#registration-is-now-open h2::after{display:none}.map{width:100%;min-height:500px}
+.footer a{color:#fff}#registration-closed,#the-first-swiss-python-summit-is-over{background-color:#FFF4AC;padding:1em}
+#registration-closed p,#the-first-swiss-python-summit-is-over p{font-size:1em;margin:0 0 .5em 0}#registration-closed h2,#the-first-swiss-python-summit-is-over h2{margin:0 0 1em 0}
+#registration-closed h2::after,#the-first-swiss-python-summit-is-over h2:after{display:none}.map{width:100%;min-height:500px}
 table#program{border:0;margin-top:40px;width:100%}table#program .col-time{width:120px}table#program td{vertical-align:top}
 table#program td.topspace{padding-top:10px}table#program th,table#program td{padding:3px;border-bottom:1px solid #ddd}
 table#program .meta{font-style:italic}table#program .description{font-size:.9em;padding-top:1em}table#program .description strong{display:inline-block;margin-top:1em}
