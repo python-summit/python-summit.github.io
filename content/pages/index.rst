@@ -27,8 +27,8 @@ If you're interested in making another edition of the conference happen and
 would like to help, please contact us at `info@python-summit.ch
 <mailto:info@python-summit.ch>`__.
 
-If everything went fine during the recording, we will publish the recorded
-talks during the next weeks. Stay tuned!
+If everything went well during the recording, we will publish the recorded
+talks in the next few weeks. Stay tuned!
 
 
 A Python Conference in Switzerland
