@@ -443,20 +443,24 @@ blockquote{
 
 
 /* Registration Callout */
-#registration-closed {
+#registration-closed,
+#the-first-swiss-python-summit-is-over {
     background-color: #FFF4AC;
     padding: 1em;
 }
-#registration-closed p {
+#registration-closed p,
+#the-first-swiss-python-summit-is-over p {
     font-size: 1em;
-    margin: 0;
+    margin: 0 0 0.5em 0;
 }
 
-#registration-closed h2 {
+#registration-closed h2,
+#the-first-swiss-python-summit-is-over h2 {
     margin: 0 0 1em 0;
 }
 
-#registration-closed h2::after {
+#registration-closed h2::after,
+#the-first-swiss-python-summit-is-over h2:after {
     display: none;
 }
 
