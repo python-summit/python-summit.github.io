@@ -45,11 +45,12 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [
     ('Home', '/'),
     ('Program', '/pages/program.html'),
-    ('Venue', '/pages/venue.html'),
-    ('Help us', '/pages/call-for-helpers.html'),
+    ('Talk Recordings', '/pages/recordings.html'),
+    #('Venue', '/pages/venue.html'),
+    #('Help us', '/pages/call-for-helpers.html'),
     #('Propose a talk','/pages/call-for-proposals.html'),
     ('CoC', '/pages/code-of-conduct.html'),
-    ('Jobs', '/pages/jobs.html'),
+    #('Jobs', '/pages/jobs.html'),
 ]
 
 # Add header background image from content/images : 'background.jpg'
