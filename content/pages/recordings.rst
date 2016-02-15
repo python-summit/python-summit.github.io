@@ -17,7 +17,7 @@ Talks
 - Dave Halter – API Design is Hard
 - Armin Rigo – CFFI: Call C from Python
 - Martin Christen – 3D Computer Graphics with Python
-- `Matthieu Amiguet – Charming Snake: Python for Live Music <5-youtube>`_
+- `Matthieu Amiguet – Charming Snake: Python for Live Music <5-youtube_>`_
 - Chihway Chang – Coding/Decoding the Cosmos: Python Applications in Astrophysics
 - Michael Rüegg – Powerful Web Scraping and Searching with Python
 - Jacinda Shelly – Getting Started with IPython
