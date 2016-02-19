@@ -19,10 +19,13 @@ Talks
 - Martin Christen – 3D Computer Graphics with Python
 - `Matthieu Amiguet – Charming Snake: Python for Live Music <5-youtube_>`_
   [`slides <5-slides_>`_]
-- Chihway Chang – Coding/Decoding the Cosmos: Python Applications in Astrophysics
+- `Chihway Chang – Coding/Decoding the Cosmos: Python Applications in Astrophysics <6-youtube_>`_
+  [`slides <6-slides_>`_]
 - Michael Rüegg – Powerful Web Scraping and Searching with Python
 - Jacinda Shelly – Getting Started with IPython
 - Florian Bruhin – Pytest: Rapid Simple Testing
 
 .. _5-youtube: https://www.youtube.com/watch?v=StNoD8ZH-N4
 .. _5-slides: http://www.matthieuamiguet.ch/media/misc/SPS16/
+.. _6-youtube: https://www.youtube.com/watch?v=7OkJl2ochTM
+.. _6-slides: /files/6-slides-chihway-chang-sps16.pdf
