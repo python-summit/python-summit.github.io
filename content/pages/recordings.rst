@@ -24,7 +24,8 @@ Talks
   [`slides <6-slides_>`_]
 - Michael Rüegg – Powerful Web Scraping and Searching with Python
 - Jacinda Shelly – Getting Started with IPython
-- Florian Bruhin – Pytest: Rapid Simple Testing
+- `Florian Bruhin – Pytest: Rapid Simple Testing <9-youtube_>`_
+  [`slides <9-slides_>`_]
 
 .. _1-youtube: https://www.youtube.com/watch?v=Q9AU_qETVd8
 .. _1-slides: /files/1-slides-tom-ron-sps16.pdf
@@ -32,3 +33,5 @@ Talks
 .. _5-slides: http://www.matthieuamiguet.ch/media/misc/SPS16/
 .. _6-youtube: https://www.youtube.com/watch?v=7OkJl2ochTM
 .. _6-slides: /files/6-slides-chihway-chang-sps16.pdf
+.. _9-youtube: https://www.youtube.com/watch?v=rCBHkQ_LVIs
+.. _9-slides: /files/9-slides-florian-bruhin-sps16.html
