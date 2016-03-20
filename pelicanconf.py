@@ -147,3 +147,4 @@ STATIC_PATHS = ['images', 'files', 'extra/CNAME']
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'}
 }
+READERS = {'html': None}
