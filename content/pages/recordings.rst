@@ -17,7 +17,8 @@ Talks
   [`slides <1-slides_>`_]
 - `Dave Halter – API Design is Hard <2-youtube_>`_
   [`slides <2-slides_>`_]
-- Armin Rigo – CFFI: Call C from Python
+- `Armin Rigo – CFFI: Call C from Python <3-youtube_>`_
+  [`slides <3-slides_>`_]
 - Martin Christen – 3D Computer Graphics with Python
 - `Matthieu Amiguet – Charming Snake: Python for Live Music <5-youtube_>`_
   [`slides <5-slides_>`_]
@@ -32,6 +33,8 @@ Talks
 .. _1-slides: /files/1-slides-tom-ron-sps16.pdf
 .. _2-youtube: https://www.youtube.com/watch?v=tPdC2D8wMos
 .. _2-slides: /files/2-slides-dave-halter-sps16.pdf
+.. _3-youtube: https://www.youtube.com/watch?v=xf7BpIKamgY
+.. _3-slides: /files/2-slides-armin-rigo-sps16.pdf
 .. _5-youtube: https://www.youtube.com/watch?v=StNoD8ZH-N4
 .. _5-slides: http://www.matthieuamiguet.ch/media/misc/SPS16/
 .. _6-youtube: https://www.youtube.com/watch?v=7OkJl2ochTM
