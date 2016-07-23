@@ -9,32 +9,10 @@ Swiss Python Summit
 :tags: Conference, News
 :illustration: header.jpg
 
-The First Swiss Python Summit is Over!
-======================================
-
-The conference was a big success. We had 9 great talks and got a lot of
-positive feedback from the 114 attendees and speakers.
-
-We'd like to thank all people that helped at the conference or presented a talk.
-Without you, the first Swiss Python conference would not have been possible!
-
-Thanks also to the `HSR <https://www.hsr.ch/>`__ that hosted us as well as our
-sponsors `Divio <https://www.divio.com/>`__, `Beekeeper
-<http://beekeeper.ch/de/>`__, `Seantis <https://seantis.ch/>`__ and `Webrepublic
-<https://webrepublic.com/>`__.
-
-If you're interested in making another edition of the conference happen and
-would like to help, please contact us at `info@python-summit.ch
-<mailto:info@python-summit.ch>`__.
-
-We will publish the recorded talks and the corresponding slides `here
-</pages/recordings.html>`__ in the next few weeks. Stay tuned!
-
-
 A Python Conference in Switzerland
 ==================================
 
-The first Swiss Python conference will take place on **February 5th, 2016** at
+The Swiss Python Summit will take place on **February 17th, 2017** at
 **HSR University of Applied Sciences in Rapperswil**.
 
 This summit is all about the programming language you love!
@@ -56,37 +34,21 @@ simple to prove that it can be done, a minimal viable product. We try to keep
 the costs and the organizational effort very low:
 
 * It will be a one day event
-* The venue is free / sponsored
-* The entry fee will only be 10 CHF - this will be collected at registration
 * Lunch will be paid by attendees themselves
 * At this time, we cannot offer speakers or helpers any compensation
-
-Program
-=======
-
-The program has been published `here </pages/program.html>`__.
 
 How to Collaborate
 ==================
 
 Have a look at the issue tracker, join the discussion and assign something to
-yourself https://github.com/SwissPy/swisspycon/issues.
+yourself https://github.com/SwissPy/sps17/issues.
 
 Want to Help?
 =============
 
-You can use the following link to register as helper: http://bit.ly/1Jacnws. You
+You can use the following link to register as helper: http://goo.gl/forms/Xw4uLM0ZatGpuVFN2. You
 can also join the mailing list to receive notifications of important
 announcements: http://bit.ly/1hj6uHB
-
-Spread the Word
-===============
-
-Be the first amgonst your friends and colleagues to hang up our awesome poster:
-
-* `Poster as PDF <./images/poster.pdf>`_
-* `Poster as PNG (small) <./images/poster-small.png>`_
-* `Poster as PNG (large) <./images/poster-big.png>`_
 
 Code of Conduct
 ===============
