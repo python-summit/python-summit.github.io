@@ -44,11 +44,11 @@ NEST_CSS_MINIFY = False
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [
     ('Home', '/'),
+    ('Propose a talk','/pages/call-for-proposals.html'),
+    ('Help us', '/pages/call-for-helpers.html'),    
     #('Program', '/pages/program.html'),
     ('Talk Recordings', '/pages/recordings.html'),
-    #('Venue', '/pages/venue.html'),
-    #('Help us', '/pages/call-for-helpers.html'),
-    #('Propose a talk','/pages/call-for-proposals.html'),
+    #('Venue', '/pages/venue.html'),    
     ('CoC', '/pages/code-of-conduct.html'),
     #('Jobs', '/pages/jobs.html'),
 ]
