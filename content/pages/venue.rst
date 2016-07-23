@@ -43,33 +43,6 @@ get a `P+Rail day card
 and to park next to the train station (P10 on the map). An alternative would be
 next to the zoo (called "Südquartier, Lido", P7 on the map).
 
-Registration Desk
-=================
-
-The registration desk will be situated at the cafeteria in building 1. This is
-also where we will have the breaks in between sessions.
-
-Auditorium
-==========
-
-The talks are held at an auditorium (room number 3.008) fitting up to 125 people.
-We will make sure that there is ample information on how to get there from the
-registration desk by putting up signs on the day of the conference.
-
-.. image:: /images/room-1.jpg
-    :alt: View from the speaker's position
-
-.. image:: /images/room-2.jpg
-    :alt: View from the middle of the room
-
-Each seat has one electrical plug. Note that if you do not have a Swiss plug
-(`SEV 1011 <https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets#Swiss_SEV_1011>`_),
-you will probably need an adapter. See
-`"Do I need a specific power adapter when travelling in Switzerland?"
-<https://www.quora.com/Switzerland/Do-I-need-a-specific-power-adapter-when-travelling-in-Switzerland-or-can-an-EU-adapter-be-used-with-Swiss-power-outlets>`_.
-
-Free WiFi is available.
-
 Accessibility
 =============
 
