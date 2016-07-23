@@ -2,7 +2,7 @@ Program
 #######
 
 :slug: program
-:summary: Program
+:summary: Program 2016
 
 Program
 =======
@@ -269,3 +269,4 @@ or if the other party requested it, return it to them via encrypted mail
 
 For more info see `<https://wiki.debian.org/Keysigning>`_ and the documents
 linked off that page.
+
