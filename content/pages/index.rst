@@ -12,7 +12,8 @@ Swiss Python Summit
 A Python Conference in Switzerland
 ==================================
 
-The Swiss Python Summit will take place on **February 17th, 2017** at
+The Swiss Python Summit 2016 was a blast! We had magnificent talks and met lots of brilliant people. That's why we decided
+to have a second edition of the conference to take place on **February 17th, 2017** at
 **HSR University of Applied Sciences in Rapperswil**.
 
 This summit is all about the programming language you love!
