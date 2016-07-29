@@ -17,7 +17,7 @@ to have a second edition of the conference to take place on **February 17th, 201
 **HSR University of Applied Sciences in Rapperswil**.
 
 This summit is all about the programming language you love!
-Discover the wide field of Python applications, hear how others use the snake
+Discover the wide field of Python applications, hear how others use the language
 and meet Swiss Pythonistas. The conference is suited for all skill levels,
 from early beginners to expert developers.
 
