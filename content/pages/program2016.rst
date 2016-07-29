@@ -1,11 +1,11 @@
-Program
-#######
+Program 2016
+############
 
-:slug: program
+:slug: program2016
 :summary: Program 2016
 
-Program
-=======
+Program 2016
+============
 
 It's been a difficult task to create a program, considering we received 40
 proposals and time only allows for a maximum of 9 slots. Many promising
@@ -242,31 +242,3 @@ Aperitif
 Right after the conference we'll have a small aperitif at HSR's cafeteria,
 sponsored by `Beekeeper <http://beekeeper.ch/>`_. There will be soft drinks,
 water, beer and sandwiches free of charge for all conference attendees.
-
-Key Signing Event
-=================
-
-During the aperitif we'll also have a key signing party for anyone wanting to
-expand the web of trust with additional signatures. This is how it will be
-conducted:
-
-To participate print out your fingerprint before the conference using
-`<http://keysheet.net>`_ for instance and be sure to have a suitable form of
-identification with you (typically a national ID card, passport or a
-drivers-license).
-
-During the aperitif we will put up a poster, where anyone interested in
-getting more signatures can gather around. Typically you will get the
-fingerprint printout from the other person and give them yours. You then you
-check the other person's id and then make a note on the fingerprint slip
-that you have verified it. At the end of the event you should have a collection
-of these to process at home.
-
-After the event you download the keys of a keyserver, verify the fingerprints
-you have collected and sign each of the keys. Now you can upload the signature,
-or if the other party requested it, return it to them via encrypted mail
-(see `<https://wiki.debian.org/caff>`_ for automating this).
-
-For more info see `<https://wiki.debian.org/Keysigning>`_ and the documents
-linked off that page.
-

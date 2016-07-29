@@ -28,15 +28,13 @@ History
 =======
 
 After the nice experience of EuroPython 2015, a small group of enthusiasts came
-up with the idea of organizing a Swiss Python Conference.
+up with the idea of organizing a Swiss Python Conference. After a few meetings
+and discussions, we organized a small, one-day, single-track and very-low-cost
+event. We expected around 50 people, but 130 signed up. It was a great success.
 
-As with software development, we think it's a good idea to start with something
-simple to prove that it can be done, a minimal viable product. We try to keep
-the costs and the organizational effort very low:
-
-* It will be a one day event
-* Lunch will be paid by attendees themselves
-* At this time, we cannot offer speakers or helpers any compensation
+You can find last year's program `here </pages/program2016.html>`__. Talk
+recordings and slids can be found on the `recordings
+</pages/recordings.html>`__ page.
 
 How to Collaborate
 ==================
