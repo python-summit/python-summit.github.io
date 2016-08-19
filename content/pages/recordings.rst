@@ -19,7 +19,8 @@ Talks
   [`slides <2-slides_>`_]
 - `Armin Rigo – CFFI: Call C from Python <3-youtube_>`_
   [`slides <3-slides_>`_]
-- Martin Christen – 3D Computer Graphics with Python
+- `Martin Christen – 3D Computer Graphics with Python <4-youtube_>`_
+  [`slides <4-slides_>`_]
 - `Matthieu Amiguet – Charming Snake: Python for Live Music <5-youtube_>`_
   [`slides <5-slides_>`_]
 - `Chihway Chang – Coding/Decoding the Cosmos: Python Applications in Astrophysics <6-youtube_>`_
@@ -35,6 +36,8 @@ Talks
 .. _2-slides: /files/2-slides-dave-halter-sps16.pdf
 .. _3-youtube: https://www.youtube.com/watch?v=xf7BpIKamgY
 .. _3-slides: /files/2-slides-armin-rigo-sps16.pdf
+.. _4-youtube: https://www.youtube.com/watch?v=OQY-MV_LEcw
+.. _4-slides: /files/4-slides-martin-christen-sps16.pdf
 .. _5-youtube: https://www.youtube.com/watch?v=StNoD8ZH-N4
 .. _5-slides: http://www.matthieuamiguet.ch/media/misc/SPS16/
 .. _6-youtube: https://www.youtube.com/watch?v=7OkJl2ochTM
