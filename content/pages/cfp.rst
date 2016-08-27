@@ -19,4 +19,4 @@ We are delighted to announce the call for proposals for our conference is open! 
 - Please **use the following form** to submit your proposal: http://goo.gl/forms/gxnHH5VZXXgjbTZL2
 
 
-The deadline for sending proposals is October 30th 2017. The organizing committee will review all proposals and will post a definitive schedule latest December 16th. 2016.
+The deadline for sending proposals is October 30th 2016. The organizing committee will review all proposals and will post a definitive schedule latest December 16th. 2016.
