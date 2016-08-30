@@ -24,6 +24,11 @@ from early beginners to expert developers.
 .. image:: /images/hsr.jpg
     :alt: Aerial view of HSR
 
+Call for Proposals
+============================
+
+Want to talk at the  Swiss Python Summit 2017? `Send your proposal </pages/call-for-proposals.html>`__.
+
 History
 =======
 
