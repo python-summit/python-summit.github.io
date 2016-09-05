@@ -43,3 +43,62 @@ be a symbolic token that helps us avoid gathering passive members.
 
 You can find the bylaws of the association here, if you are into this kind
 of stuff: `<https://github.com/SwissPy/swisspycon/tree/master/association>`_.
+
+Help us by Sponsoring our Event
+===============================
+
+Last year's conference drew around 110 attendees interested in programming with
+Python. This year we expect this number to swell to 200 attendees. That's 200
+people that will see your logo and associate your company with our conference.
+
+From the feedback we got we can say with confidence, that this is a very good
+thing. Who knows, your next newly hire might find out about you during our
+conference.
+
+We try to keep the list of our sponsors exclusive, because no-one remembers
+one company out of a hundred. So if you are interested, act fast as the
+spots on our sponsorship plans won't be available for long:
+
+Platinum Sponsor (2000 CHF)
+---------------------------
+
+Only one spot (still available).
+
+* Has the logo placed on all promotional materials in the largest size
+  (relative to other sponsors).
+
+* May send one mass-email to all attendees through us (we won't share any addresses).
+
+* Gets a five minute spot at the end of the conference, before closing remarks,
+  to give a short presentation.
+
+* Gets a booth spot and first pick as to its location.
+
+* Gets five company tickets.
+
+* Is named official sponsor of the afterparty.
+
+Gold Sponsor (1000 CHF)
+-----------------------
+
+Two spots (only one left).
+
+* Has the logo placed on all promotional materials in medium size
+  (relative to other sponsors).
+
+* Gets a booth spot.
+
+* Gets three company tickets.
+
+Silver Sponsor (500 CHF)
+------------------------
+
+Three spots available.
+
+
+.. raw:: html
+
+    <ul>
+        <!-- reSt will not accept a single bullet list for some reason -->
+        <li>Has the logo placed on all promotional materials in small size  (relative to other sponsors).</li>
+    </ul>
