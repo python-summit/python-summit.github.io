@@ -57,7 +57,11 @@ conference.
 
 We try to keep the list of our sponsors exclusive, because no-one remembers
 one company out of a hundred. So if you are interested, act fast as the
-spots on our sponsorship plans won't be available for long:
+spots on our sponsorship plans won't be available for long.
+
+If you are interested, contact us at `info@python-summit.ch
+<mailto:info@python-summit.ch?subject=Sponsorship%20Request>`__ if you're
+interested.
 
 Platinum Sponsor (2000 CHF)
 ---------------------------
