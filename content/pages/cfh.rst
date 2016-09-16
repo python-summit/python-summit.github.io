@@ -66,7 +66,7 @@ interested.
 Platinum Sponsor (2000 CHF)
 ---------------------------
 
-Only one spot (still available).
+** The platinum sponsoring spot has already been filled **
 
 * Has the logo placed on all promotional materials in the largest size
   (relative to other sponsors).
@@ -85,7 +85,7 @@ Only one spot (still available).
 Gold Sponsor (1000 CHF)
 -----------------------
 
-Two spots (only one left).
+** 1/2 spots still available. **
 
 * Has the logo placed on all promotional materials in medium size
   (relative to other sponsors).
@@ -97,8 +97,7 @@ Two spots (only one left).
 Silver Sponsor (500 CHF)
 ------------------------
 
-Three spots available.
-
+** 3/3 spots still available. **
 
 .. raw:: html
 
