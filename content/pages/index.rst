@@ -9,6 +9,13 @@ Swiss Python Summit
 :tags: Conference, News
 :illustration: header.jpg
 
+
+Registration is now open
+========================
+
+`Click here to register <./pages/registration.html>`_.
+
+
 Call for Proposals
 ==================
 
