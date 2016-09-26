@@ -10,16 +10,17 @@ Swiss Python Summit
 :illustration: header.jpg
 
 
-Registration is now open
-========================
-
-`Click here to register <./pages/registration.html>`_.
-
-
 Call for Proposals
 ==================
 
 Want to talk at the  Swiss Python Summit 2017? `Send your proposal </pages/call-for-proposals.html>`__.
+
+
+Registration is now open
+========================
+
+`Click here to register <./pages/registration.html>`__.
+
 
 A Python Conference in Switzerland
 ==================================

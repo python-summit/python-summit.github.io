@@ -45,8 +45,10 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [
     ('Home', '/'),
     ('Propose a talk','/pages/call-for-proposals.html'),
+    ('Register', '/pages/registration.html'),
     ('Help us', '/pages/call-for-helpers.html'),
-    #('Program', '/pages/program.html'),
+
+    #'Program', '/pages/program.html'),
     ('Recordings', '/pages/recordings.html'),
     ('Venue', '/pages/venue.html'),
     ('CoC', '/pages/code-of-conduct.html'),
