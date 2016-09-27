@@ -13,13 +13,13 @@ Swiss Python Summit
 Call for Proposals
 ==================
 
-Want to talk at the  Swiss Python Summit 2017? `Send your proposal </pages/call-for-proposals.html>`__.
+Want to talk at the Swiss Python Summit 2017? `Send your proposal </pages/call-for-proposals.html>`__.
 
 
 Registration is now open
 ========================
 
-`Click here to register <./pages/registration.html>`__.
+Want to attend the Swiss Python Summit 2017? `Click here to register <./pages/registration.html>`__.
 
 
 A Python Conference in Switzerland
