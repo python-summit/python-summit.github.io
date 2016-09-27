@@ -85,7 +85,7 @@ Platinum Sponsor (2000 CHF)
 Gold Sponsor (1000 CHF)
 -----------------------
 
-**1/2 spots still available.**
+**The gold sponsoring spots have already been filled.**
 
 * Has the logo placed on all promotional materials in medium size
   (relative to other sponsors).
