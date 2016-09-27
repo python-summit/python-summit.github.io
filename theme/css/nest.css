@@ -187,7 +187,7 @@ h4:after {
     color:#fff;
     text-decoration:none;
     padding:8px;
-    margin-left:20px;
+    margin-left:2px;
     text-transform: uppercase;
     transition: all 0.2s ease-out;
 }
@@ -445,12 +445,15 @@ blockquote{
 /* Registration Callout */
 #registration-closed,
 #call-for-proposals,
+#registration-is-now-open,
 #the-first-swiss-python-summit-is-over {
     background-color: #FFF4AC;
     padding: 1em;
+    margin: 0 0 1em;
 }
 #registration-closed p,
 #call-for-proposals p,
+#registration-is-now-open p,
 #the-first-swiss-python-summit-is-over p {
     font-size: 1em;
     margin: 0 0 0.5em 0;
@@ -458,12 +461,14 @@ blockquote{
 
 #registration-closed h2,
 #call-for-proposals h2,
+#registration-is-now-open h2,
 #the-first-swiss-python-summit-is-over h2 {
     margin: 0 0 1em 0;
 }
 
 #registration-closed h2::after,
 #call-for-proposals h2::after,
+#registration-is-now-open h2::after,
 #the-first-swiss-python-summit-is-over h2:after {
     display: none;
 }
