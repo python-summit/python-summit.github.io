@@ -62,6 +62,32 @@ You can use the following link to register as helper: http://goo.gl/forms/Xw4uLM
 can also join the mailing list to receive notifications of important
 announcements: http://bit.ly/1hj6uHB
 
+Sponsors
+========
+
+Our conference is proudly sponsored by companies that use Python every day.
+
+.. raw:: html
+
+    <div style="margin-bottom: 1.5em">
+        <a href="https://www.4teamwork.ch">
+            <img style="width: 90%;" src="/images/4teamwork.svg">
+        </a>
+    </div>
+
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <div style="width: 45%;">
+            <a href="https://www.sensirion.com">
+                <img style="width: 100%" src="/images/sensirion.svg">
+            </a>
+        </div>
+        <div style="width: 45%; ">
+            <a href="https://www.seantis.ch">
+                <img style="width: 75%" src="/images/seantis.svg">
+            </a>
+        </div>
+    </div>
+
 Code of Conduct
 ===============
 
