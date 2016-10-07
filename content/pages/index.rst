@@ -75,7 +75,7 @@ Our conference is proudly sponsored by companies that use Python every day.
         </a>
     </div>
 
-    <div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5em">
         <div style="width: 45%;">
             <a href="https://www.sensirion.com">
                 <img style="width: 100%" src="/images/sensirion.svg">
@@ -84,6 +84,14 @@ Our conference is proudly sponsored by companies that use Python every day.
         <div style="width: 45%; ">
             <a href="https://www.seantis.ch">
                 <img style="width: 75%" src="/images/seantis.svg">
+            </a>
+        </div>
+    </div>
+
+    <div style="display: flex; justify-content: space-between; align-items: left;">
+        <div style="width: 22.5%">
+            <a href="https://vshn.ch">
+                <img style="width: 57.5%" src="/images/vshn.svg">
             </a>
         </div>
     </div>
