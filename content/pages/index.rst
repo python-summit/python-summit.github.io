@@ -9,18 +9,18 @@ Swiss Python Summit
 :tags: Conference, News
 :illustration: header.jpg
 
-
-Call for Proposals
-==================
-
-Want to talk at the Swiss Python Summit 2017? `Send your proposal </pages/call-for-proposals.html>`__.
-
-
 Registration is now open
 ========================
 
 Want to attend the Swiss Python Summit 2017? `Click here to register <./pages/registration.html>`__.
 
+Call for Proposals is Over
+==========================
+
+We are no longer accepting proposals for the Swiss Python Summit 2017. We will
+review all proposals and publish a definite schedule by mid-december.
+
+Thanks to everyone that sent us a proposal!
 
 A Python Conference in Switzerland
 ==================================
