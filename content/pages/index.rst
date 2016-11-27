@@ -34,11 +34,8 @@ Discover the wide field of Python applications, hear how others use the language
 and meet Swiss Pythonistas. The conference is suited for all skill levels,
 from early beginners to expert developers.
 
-.. image:: /images/hsr.jpg
-    :alt: Aerial view of HSR
-
 History
-=======
+-------
 
 After the nice experience of EuroPython 2015, a small group of enthusiasts came
 up with the idea of organizing a Swiss Python Conference. After a few meetings
@@ -49,16 +46,24 @@ You can find last year's program `here </pages/program2016.html>`__. Talk
 recordings and slids can be found on the `recordings
 </pages/recordings.html>`__ page.
 
-How to Collaborate
-==================
+.. image:: /images/hsr.jpg
+    :alt: Aerial view of HSR
 
-Have a look at the issue tracker, join the discussion and assign something to
-yourself https://github.com/SwissPy/sps17/issues.
+Learn How to Python at the Django Girls Workshop
+================================================
+
+If you are a woman and want to learn how to make websites, we have good news
+for you: there's going to be a Django Girls Workshop the day after the
+conference!
+
+See https://djangogirls.org/rapperswil/ for more information.
 
 Want to Help?
 =============
 
-You can use the following link to register as helper: http://goo.gl/forms/Xw4uLM0ZatGpuVFN2.
+If you want to help us organise the conference or give us a hand on the
+day of the conference, then have a look at our
+`helper page </pages/call-for-helpers-html>`__.
 
 Sponsors
 ========
