@@ -63,7 +63,7 @@ Want to Help?
 
 If you want to help us organise the conference or give us a hand on the
 day of the conference, then have a look at our
-`helper page </pages/call-for-helpers-html>`__.
+`helper page </pages/call-for-helpers.html>`__.
 
 Sponsors
 ========
