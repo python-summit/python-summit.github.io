@@ -58,9 +58,7 @@ yourself https://github.com/SwissPy/sps17/issues.
 Want to Help?
 =============
 
-You can use the following link to register as helper: http://goo.gl/forms/Xw4uLM0ZatGpuVFN2. You
-can also join the mailing list to receive notifications of important
-announcements: http://bit.ly/1hj6uHB
+You can use the following link to register as helper: http://goo.gl/forms/Xw4uLM0ZatGpuVFN2.
 
 Sponsors
 ========
