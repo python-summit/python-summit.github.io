@@ -520,3 +520,7 @@ table#program .description strong {
 .hidden {
     display: none;
 }
+
+.bold {
+    font-weight: bold;
+}
