@@ -18,7 +18,9 @@ in the conference and to meet people without the awkard "so what do you do?".
 
 .. class:: bold
 
-If you are interested, `sign up here! <https://docs.google.com/forms/d/e/1FAIpQLSfmQlvzxd-nPOggItmLkiVWSR5BEocZ4xqNYrywiSgY75CRzA/viewform?c=0&w=1>`__
+Let us know at `info@python-summit.ch
+<mailto:info@python-summit.ch?subject=I%20want%20to%20help!>`__ if you're
+interested.
 
 Organize the Next Summit With Us
 ================================
