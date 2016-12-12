@@ -7,7 +7,7 @@ Registration
 We'd love to see you at the summit!
 ===================================
 
-Register your ticket now, starting from *30 CHF** for regular attendees.
+Register your ticket now, starting from **30 CHF** for regular attendees.
 This money will be used for promotion, drinks and snacks.
 
 We are a `non-profit association <https://github.com/SwissPy/SPSA/blob/master/bylaws.md>`_: any extra proceeds
