@@ -59,9 +59,9 @@ to put together an amazing and very diverse program!
                     <a href="#">RevDB, a Reverse Debugger</a>
                     <p class="description">
                         RevDB is an experimental "reverse debugger" for Python, similar to UndoDB-GDB or LL for C. You run your program once, in "record" mode, producing a log file; once you get buggy behavior, you start the reverse-debugger on the log file. It gives an (improved) pdb-like experience, but it is replaying your program exactly as it ran---all input/outputs are replayed from the log file instead of being redone.
-                        <br>
+                        <br><br>
                         The main point is that you can then go backward as well as forward in time: from a situation that looks really buggy you can go back and discover how it came to be. You also get "watchpoints", which are very useful to find when things change. Watchpoints work both forward and backward.
-                        <br>
+                        <br><br>
                         I will show on small examples how you can use it, and also give an idea about how it works. It is based on PyPy, not CPython, so you need to ensure your program works on PyPy in the first place (but chances are that it does).
                     </p>
                 </td>
@@ -72,8 +72,8 @@ to put together an amazing and very diverse program!
                     Barnaby Skinner<br>
                     <a href="#">Scraping the Federal Administrative Court's Database and Analysing the Verdicts </a>
                     <p class="description">
-                        For years, lawyers and attorneys working in Switzerland have sensed that cases of migrants appealing deportation weren't treated equally by the 24 judges of the Swiss Federal Administrative Court.<br>
-
+                        For years, lawyers and attorneys working in Switzerland have sensed that cases of migrants appealing deportation weren't treated equally by the 24 judges of the Swiss Federal Administrative Court.
+                        <br><br>
                         To explore this claim we scraped the 30'000 verdicts of the court since 2007 from the court's data base. Then used the Python libraries pandas, glob and regular expressions to explore the data.
                     </p>
                 </td>
@@ -89,11 +89,11 @@ to put together an amazing and very diverse program!
                     <a href="#">Python is Weird</a>
                     <p class="description">
                         A lot of people think that Python is a really simple and straightforward language. Python hides a lot of peculiarities very well, but for the sake of this talk we will try to uncover them.
-                        <br>
+                        <br><br>
                         I will be explaining how the whole process of tokenizing -> parsing -> ast creation -> bytecode works and will use odd Python code to show the internals. Do you think `++4;` is valid Python? Or how about `0jif.1else-2`? There's no spaces in it. Go figure! "Edge cases" will help us understand the inner workings of Python.
-                        <br>
+                        <br><br>
                         We will be looking into how modules, classes and instances are really just fancy dictionaries and how importing is really nothing else than storing a module into a dictionary (`sys.modules`).
-                        <br>
+                        <br><br>
                         There's a lot of things we can learn from diving deep into the details of our beloved languages.
                     </p>
                 </td>
