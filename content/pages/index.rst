@@ -22,7 +22,7 @@ Want to hang your poster at the  Swiss Python Summit 2017? `Register a poster <.
 Program
 =======
 
-`Our program has been decided: <./pages/program.html>`__.
+`Our program has been decided <./pages/program.html>`__.
 
 Thanks to everyone that sent us a proposal!
 
