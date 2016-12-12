@@ -49,7 +49,7 @@ to put together an amazing and very diverse program!
                 </td>
             </tr>
             <tr>
-                <td>10:30-11:00</td>
+                <td>10:30 - 11:00</td>
                 <td class="meta">Coffee break</td>
             </tr>
             <tr>
