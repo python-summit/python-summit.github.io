@@ -14,18 +14,15 @@ Registration is now open
 
 Want to attend the Swiss Python Summit 2017? `Click here to register <./pages/registration.html>`__.
 
-
 Register a Poster
 =================
 
 Want to hang your poster at the  Swiss Python Summit 2017? `Register a poster <./pages/call-for-posters.html>`__.
 
+Program
+=======
 
-Call for Proposals is Over
-==========================
-
-We are no longer accepting proposals for the Swiss Python Summit 2017. We will
-review all proposals and publish a definite schedule by mid-december.
+`Our program has been decided: <./pages/program.html>`__.
 
 Thanks to everyone that sent us a proposal!
 
