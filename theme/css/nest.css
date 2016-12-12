@@ -524,3 +524,46 @@ table#program .description strong {
 .bold {
     font-weight: bold;
 }
+
+/* Make more space for header navigation items */
+.pull-right:before,
+.pull-right:after {
+    display: none !important;
+}
+
+.header-nav, .pull-left, .pull-right {
+    height: 5rem;
+}
+
+@media  (max-width: 992px) {
+    .header-nav {
+        line-height: 50px;
+    }    
+}
+
+.pull-left {
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 4.5rem;
+}
+
+.pull-right {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.header-content {
+    padding-bottom: 0 !important;
+}
+
+/* remove jumpiness when switching from pages with to pages without a scrollbar
+    (the image will still jump, but not the text)
+*/
+@media not print {
+    html {
+        margin-left: calc(100vw - 100% - 15px);
+    }
+}
