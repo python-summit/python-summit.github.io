@@ -116,7 +116,13 @@
             <div class="container">
                 <div class="header-nav">
                     <div class="header-logo">
-                        <a class="pull-left" href="{{ SITEURL }}/"><img class="mr20" src="{{ SITEURL }}{{NEST_HEADER_LOGO or "/logo.svg" }}" alt="logo">{{ SITENAME }}</a>
+                        <a class="pull-left" href="{{ SITEURL }}/">
+                            <img class="mr20" src="{{ SITEURL }}{{NEST_HEADER_LOGO or "/logo.svg" }}" alt="logo">
+                            <div class="flexright">
+                                <span class="sitename">{{ SITENAME }}</span>
+                                <span class="confdate">{{ CONFDATE }}</span>
+                            </div>
+                        </a>
                     </div>
                     <div class="nav pull-right">
                         {% for title, link in MENUITEMS %}

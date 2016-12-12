@@ -2,6 +2,7 @@ AUTHOR = '@ccdesales'
 SITENAME = 'Swiss Python Summit'
 SITESUBTITLE = 'A Swiss Python Conference'
 SITEURL = 'https://swisspy.github.io/swisspycon/'
+CONFDATE = 'February 17th, 2017'
 
 PATH = 'content'
 OUTPUT_PATH="output"
