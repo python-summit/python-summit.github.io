@@ -22,6 +22,8 @@ Let us know at `info@python-summit.ch
 <mailto:info@python-summit.ch?subject=I%20want%20to%20help!>`__ if you're
 interested.
 
+As a thank you you'll get an awesome helper t-shirt!
+
 Organize the Next Summit With Us
 ================================
 
