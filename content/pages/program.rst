@@ -34,8 +34,21 @@ to put together an amazing and very diverse program!
                 <td>09:15 – 10:00</td>
                 <td>
                     Gaël Varoquaux<br>
-                    <a href="#">Writing Code for Science</a>
-                    <p class="description">Keynote</p>
+                    <a href="#">Writing Code for Science and Data</a>
+                    <p class="description">
+                        Scientific research or data science need rapid experimentation and
+                        building intuitions from data. Yet, in academia or in the industry, the
+                        code must live on to be useful for future enquiries or in production.
+                        Always experimenting yet writing production-ready robust code may seem a
+                        conundrum. However it shares a lot with agile or extreme programming
+                        techniques. It is an interesting test bed of programming practices.
+
+                        I will explore simple, and less simple, practices that I have encountered
+                        in my research for fast turn around and consolidation of code. I will
+                        discuss how these considerations led to the design of scikit-learn, that
+                        enables easy machine learning, yet is used in production. Finally, I will
+                        mention some scikit-learn gems, new or forgotten.
+                    </p>
                 </td>
             </tr>
             <tr>
