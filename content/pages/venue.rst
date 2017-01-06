@@ -4,17 +4,26 @@ Venue
 :slug: venue
 :summary: Venue
 
-The Swiss Python Summit is held at HSR University of Applied Sciences in
-Rapperswil.
+The Swiss Python Summit is held at `HSR University of Applied Sciences
+<https://www.hsr.ch/>`__ in `Rapperswil
+<https://www.instagram.com/visitrapperswil/>`__.
 
 Map
 ===
 
 .. raw:: html
 
-    <div class="map" data-lat="47.223516404628754" data-lon="8.817362487316132" data-zoom="15"
+    <div class="map" data-lat="47.223307" data-lon="8.816796" data-zoom="15"
         data-title="HSR University of Applied Sciences">
     </div>
+
+Room
+====
+
+The conference will take place in the Aula (building 4).
+
+.. image:: /images/aula.jpg
+    :alt: The HSR aula
 
 Arrival
 =======
@@ -23,7 +32,7 @@ By Train
 --------
 
 Rapperswil is a 40 minutes train ride from Zürich main station. HSR is *very*
-close to Rapperswil train station. If you follow the right exit you end up
+close to Rapperswil train station. If you follow the southern exit you end up
 right on campus.
 
 For this reason we recommend the use of public transport. It's the easiest
@@ -48,14 +57,14 @@ Accessibility
 
 The venue is fully accessible by wheelchair.
 
-Talk Hardware
-=============
+Speaker Infrastructure
+======================
 
 If you are having a talk at the summit you can expect the following hardware:
 
 * You'll get a wireless headset for recording and amplification.
-* The projectors have HDMI and VGA connectors. We should have video adapters for
-  you, but do bring your own to be on the safe side.
+* The projectors have HDMI and VGA connectors. We should have video adapters
+  for most common connectors.
 * Your presentation will be shown with a resolution of 1920x1200 (16:10).
 
 If you plan to have output audio of any kind, do let us know beforehand as we
