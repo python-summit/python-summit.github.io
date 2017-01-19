@@ -14,6 +14,8 @@ Registration is now open
 
 Want to attend the Swiss Python Summit 2017? `Click here to register <./pages/registration.html>`__.
 
+*After the 1st of February the ticket price increases and must be paid at the conference registration desk.*
+
 Register a Poster
 =================
 
