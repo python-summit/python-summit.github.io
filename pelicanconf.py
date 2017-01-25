@@ -144,7 +144,7 @@ NEST_TAGS_CONTENT_TITLE = u'Tags List'
 NEST_TAGS_CONTENT_LIST = u'tagged'
 
 # Static files
-STATIC_PATHS = ['images', 'files', 'extra/CNAME']
+STATIC_PATHS = ['images', 'files', 'extra/CNAME', '72cdcf473e0cc473babe4ad68649ce1a.txt']
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'}
 }
