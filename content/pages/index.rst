@@ -16,10 +16,6 @@ Want to attend the Swiss Python Summit 2017? `Click here to register <./pages/re
 
 *Conference registration closes the 12th of February.*
 
-Register a Poster
-=================
-
-Want to hang your poster at the  Swiss Python Summit 2017? `Register a poster <./pages/call-for-posters.html>`__.
 
 Program
 =======
