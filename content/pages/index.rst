@@ -16,7 +16,7 @@ The conference is upon us! If you just realised this or if you are on
 the way to the conference and need to know something, here's the gist:
 
 * `Check out our program <./pages/program.html>`__!
-* If you have registered already you will get a bdage when arriving at the venue.
+* If you have registered already you will get a badge when arriving at the venue.
 * If you have registered already but you haven't paid yet, please bring cash!
 * If you haven't registered yet you are out of luck, sorry.
 * The registration desk/conference is held in building 4. As you enter it, head upstairs to the Aula.
