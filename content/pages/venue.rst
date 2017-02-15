@@ -20,7 +20,8 @@ Map
 Room
 ====
 
-The conference will take place in the Aula (building 4).
+The conference will take place in the Aula (building 4). As you enter building
+4 head upstairs.
 
 .. image:: /images/aula.jpg
     :alt: The HSR aula

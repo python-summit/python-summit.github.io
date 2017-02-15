@@ -9,20 +9,21 @@ Swiss Python Summit
 :tags: Conference, News
 :illustration: header.jpg
 
-Registration is now open
-========================
+It Is Happening!
+================
 
-Want to attend the Swiss Python Summit 2017? `Click here to register <./pages/registration.html>`__.
+The conference is upon us! If you just realised this or if you are on
+the way to the conference and need to know something, here's the gist:
 
-*Conference registration closes the 12th of February.*
+* `Check out our program <./pages/program.html>`__!
+* If you have registered already you will get a bdage when arriving at the venue.
+* If you have registered already but you haven't paid yet, please bring cash!
+* If you haven't registered yet you are out of luck, sorry.
+* The registration desk/conference is held in building 4. As you enter it, head upstairs to the Aula.
 
+To find out more about the venue and how to reach it, `have a look at our venue page <./pages/venue.html>`__.
 
-Program
-=======
-
-`Our program has been decided <./pages/program.html>`__!
-
-Thanks to everyone that sent us a proposal!
+We are very excited to see you at the conference! Have a safe trip and enjoy the summit!
 
 A Python Conference in Switzerland
 ==================================
