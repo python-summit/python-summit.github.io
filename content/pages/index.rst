@@ -9,21 +9,18 @@ Swiss Python Summit
 :tags: Conference, News
 :illustration: header.jpg
 
-It Is Happening!
-================
+Thank you!
+==========
 
-The conference is upon us! If you just realised this or if you are on
-the way to the conference and need to know something, here's the gist:
+The 2017 edition of the conference is over and we had a blast.
 
-* `Check out our program <./pages/program.html>`__!
-* If you have registered already you will get a badge when arriving at the venue.
-* If you have registered already but you haven't paid yet, please bring cash!
-* If you haven't registered yet you are out of luck, sorry.
-* The registration desk/conference is held in building 4. As you enter it, head upstairs to the Aula.
+We'd like to thank all helpers, speakers, sponsors and attendees for their
+support. You all made this event possible!
 
-To find out more about the venue and how to reach it, `have a look at our venue page <./pages/venue.html>`__.
-
-We are very excited to see you at the conference! Have a safe trip and enjoy the summit!
+The slides of the talks are `already online </pages/recordings.html>`__. Videos
+will follow over the next few weeks. To stay up to date, check our website from
+time to time or `subscribe to our YouTube channel
+<https://www.youtube.com/channel/UC6vY6GlklV7cNt5MohPWdSw>`__.
 
 A Python Conference in Switzerland
 ==================================
