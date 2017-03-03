@@ -59,7 +59,8 @@ few weeks, we will publish the videos and accompanying slides here!
   [`slides <16-6-slides_>`_]
 - `Michael Rüegg – Powerful Web Scraping and Searching with Python <16-7-youtube_>`_
   [`slides <16-7-slides_>`_]
-- Jacinda Shelly – Getting Started with IPython
+- `Jacinda Shelly – Getting Started with IPython <16-8-youtube_>`_
+  [`slides <16-8-slides_>`_]
 - `Florian Bruhin – Pytest: Rapid Simple Testing <16-9-youtube_>`_
   [`slides <16-9-slides_>`_]
 
@@ -77,5 +78,7 @@ few weeks, we will publish the videos and accompanying slides here!
 .. _16-6-slides: /files/6-slides-chihway-chang-sps16.pdf
 .. _16-7-youtube: https://www.youtube.com/watch?v=Bz0-4S5UjPY
 .. _16-7-slides: /files/7-slides-michael-rueegg-sps16.pdf
+.. _16-8-youtube: https://www.youtube.com/watch?v=5wxnmPXNghY
+.. _16-8-slides: /files/8-slides-jacinda-shelly-sps16.pdf
 .. _16-9-youtube: https://www.youtube.com/watch?v=rCBHkQ_LVIs
 .. _16-9-slides: /files/9-slides-florian-bruhin-sps16.html
