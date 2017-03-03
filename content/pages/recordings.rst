@@ -57,7 +57,8 @@ few weeks, we will publish the videos and accompanying slides here!
   [`slides <16-5-slides_>`_]
 - `Chihway Chang – Coding/Decoding the Cosmos: Python Applications in Astrophysics <16-6-youtube_>`_
   [`slides <16-6-slides_>`_]
-- Michael Rüegg – Powerful Web Scraping and Searching with Python
+- `Michael Rüegg – Powerful Web Scraping and Searching with Python <16-7-youtube_>`_
+  [`slides <16-7-slides_>`_]
 - Jacinda Shelly – Getting Started with IPython
 - `Florian Bruhin – Pytest: Rapid Simple Testing <16-9-youtube_>`_
   [`slides <16-9-slides_>`_]
@@ -74,5 +75,7 @@ few weeks, we will publish the videos and accompanying slides here!
 .. _16-5-slides: http://www.matthieuamiguet.ch/media/misc/SPS16/
 .. _16-6-youtube: https://www.youtube.com/watch?v=7OkJl2ochTM
 .. _16-6-slides: /files/6-slides-chihway-chang-sps16.pdf
+.. _16-7-youtube: https://www.youtube.com/watch?v=Bz0-4S5UjPY
+.. _16-7-slides: /files/7-slides-michael-rueegg-sps16.pdf
 .. _16-9-youtube: https://www.youtube.com/watch?v=rCBHkQ_LVIs
 .. _16-9-slides: /files/9-slides-florian-bruhin-sps16.html
