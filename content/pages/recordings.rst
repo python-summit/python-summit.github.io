@@ -13,33 +13,41 @@ few weeks, we will publish the videos and accompanying slides here!
 2017
 ----
 
-- Gaël Varoquaux – Writing Code for Science and Data
+- `Gaël Varoquaux – Writing Code for Science and Data <17-1-youtube_>`_
   [`slides <17-1-slides_>`_]
-- Radomir Dopieralski – Hobby Electronics with MicroPython
+- `Radomir Dopieralski – Hobby Electronics with MicroPython <17-2-youtube_>`_
   [`slides <17-2-slides_>`_]
-- Armin Rigo – RevDB, a Reverse Debugger
+- `Armin Rigo – RevDB, a Reverse Debugger <17-3-youtube_>`_
   [`slides <17-3-slides_>`_]
-- Barnaby Skinner – Scraping the Federal Administrative Court's Database and Analysing the Verdicts
+- `Barnaby Skinner – Scraping the Federal Administrative Court's Database and Analysing the Verdicts <17-4-youtube_>`_
   [`slides <17-4-slides_>`_]
-- Dave Halter – Python is Weird
+- `Dave Halter – Python is Weird <17-5-youtube_>`_
   [`slides <17-5-slides_>`_]
-- Dan Maas – Massively Multiplayer Online Game Servers in Twisted Python
+- `Dan Maas – Massively Multiplayer Online Game Servers in Twisted Python <17-6-youtube_>`_
   [`slides <17-6-slides_>`_]
-- Aarno Aukia – Scalable Python with Docker, Kubernetes and Openshift
+- `Aarno Aukia – Scalable Python with Docker, Kubernetes and Openshift <17-7-youtube_>`_
   [`slides <17-7-slides_>`_]
-- Rae Knowler – Python, Locales and Writing Systems
+- `Rae Knowler – Python, Locales and Writing Systems <17-8-youtube_>`_
   [`slides <17-8-slides_>`_]
 - Raphael Nestler – Python in the Hardware Industry
   [`slides <17-9-slides_>`_]
 
 .. _17-1-slides: /files/gael-varoquaux-writing-code-for-science.pdf
+.. _17-1-youtube: https://www.youtube.com/watch?v=AaqsGRKdoQ0
 .. _17-2-slides: /files/radomir-dopieralski-micropython.pdf
+.. _17-2-youtube: https://www.youtube.com/watch?v=ZE-6b6O822U
 .. _17-3-slides: /files/armin-rigo-revdb.pdf
+.. _17-3-youtube: https://www.youtube.com/watch?v=kMc7mBFCdAc
 .. _17-4-slides: /files/barnaby-skinner-scraping-court.pdf
+.. _17-4-youtube: https://www.youtube.com/watch?v=OWNa8MCfPaA
 .. _17-5-slides: /files/dave-halter-python-is-weird.pdf
+.. _17-5-youtube: https://www.youtube.com/watch?v=6NVUbO7pFtA
 .. _17-6-slides: /files/dan-maas-mmo-server.pdf
+.. _17-6-youtube: https://www.youtube.com/watch?v=KW3mzaM3UcU
 .. _17-7-slides: /files/aarno-aukia-containers.pdf
+.. _17-7-youtube: https://www.youtube.com/watch?v=_26mLl22Zms
 .. _17-8-slides: /files/rae-knowler-python-writing-systems.pdf
+.. _17-8-youtube: https://www.youtube.com/watch?v=Qs0tQZ7__ds
 .. _17-9-slides: /files/raphael-nestler-python-in-the-hardware-industry.pdf
 
 2016
