@@ -29,7 +29,7 @@ few weeks, we will publish the videos and accompanying slides here!
   [`slides <17-7-slides_>`_]
 - `Rae Knowler – Python, Locales and Writing Systems <17-8-youtube_>`_
   [`slides <17-8-slides_>`_]
-- Raphael Nestler – Python in the Hardware Industry
+- `Raphael Nestler – Python in the Hardware Industry <17-9-youtube_>`_
   [`slides <17-9-slides_>`_]
 
 .. _17-1-slides: /files/gael-varoquaux-writing-code-for-science.pdf
@@ -49,6 +49,7 @@ few weeks, we will publish the videos and accompanying slides here!
 .. _17-8-slides: /files/rae-knowler-python-writing-systems.pdf
 .. _17-8-youtube: https://www.youtube.com/watch?v=Qs0tQZ7__ds
 .. _17-9-slides: /files/raphael-nestler-python-in-the-hardware-industry.pdf
+.. _17-9-youtube: https://www.youtube.com/watch?v=uMQvWecwZgw
 
 2016
 ----
