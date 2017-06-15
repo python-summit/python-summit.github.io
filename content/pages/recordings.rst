@@ -13,6 +13,8 @@ few weeks, we will publish the videos and accompanying slides here!
 2017
 ----
 
+`Youtube Playlist <https://www.youtube.com/playlist?list=PL4_MBPz5hOsKGgkf74Yalhl--6sRUrOIg>`__
+
 - `Gaël Varoquaux – Writing Code for Science and Data <17-1-youtube_>`_
   [`slides <17-1-slides_>`_]
 - `Radomir Dopieralski – Hobby Electronics with MicroPython <17-2-youtube_>`_
@@ -53,6 +55,8 @@ few weeks, we will publish the videos and accompanying slides here!
 
 2016
 ----
+
+`Youtube Playlist <https://www.youtube.com/playlist?list=PL4_MBPz5hOsK1fflMqTEbOC9rPAsksG4A>`__
 
 - `Tom Ron – Python's Guide to the Galaxy <16-1-youtube_>`_
   [`slides <16-1-slides_>`_]
