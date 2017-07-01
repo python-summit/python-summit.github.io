@@ -9,6 +9,17 @@ Swiss Python Summit
 :tags: Conference, News
 :illustration: header.jpg
 
+A Python Conference in Switzerland
+==================================
+
+The Swiss Python Summit 2017 was a blast! We had magnificent talks and met lots of brilliant people. That's why we decided
+to have a new edition of the conference to take place on **February 16th, 2018** at a place to be defined. See the `call for Venues </pages/call-for-venues.html>`__.
+
+This summit is all about the programming language you love!
+Discover the wide field of Python applications, hear how others use the language
+and meet Swiss Pythonistas. The conference is suited for all skill levels,
+from early beginners to expert developers.
+
 Thank you!
 ==========
 
@@ -22,41 +33,24 @@ will follow over the next few weeks. To stay up to date, check our website from
 time to time or `subscribe to our YouTube channel
 <https://www.youtube.com/channel/UC6vY6GlklV7cNt5MohPWdSw>`__.
 
-A Python Conference in Switzerland
-==================================
-
-The Swiss Python Summit 2016 was a blast! We had magnificent talks and met lots of brilliant people. That's why we decided
-to have a second edition of the conference to take place on **February 17th, 2017** at
-**HSR University of Applied Sciences in Rapperswil**.
-
-This summit is all about the programming language you love!
-Discover the wide field of Python applications, hear how others use the language
-and meet Swiss Pythonistas. The conference is suited for all skill levels,
-from early beginners to expert developers.
 
 History
--------
+=======
 
 After the nice experience of EuroPython 2015, a small group of enthusiasts came
 up with the idea of organizing a Swiss Python Conference. After a few meetings
 and discussions, we organized a small, one-day, single-track and very-low-cost
 event. We expected around 50 people, but 130 signed up. It was a great success.
 
-You can find last year's program `here </pages/program2016.html>`__. Talk
-recordings and slids can be found on the `recordings
+You can find program from previous years online:
+
+Program `SPS 2016 </pages/program2016.html>`__. Talk recordings and slids can be found on the `recordings
 </pages/recordings.html>`__ page.
+
+Program `SPS 2017 </pages/program2017.html>`__.
 
 .. image:: /images/hsr.jpg
     :alt: Aerial view of HSR
-
-Learn How to Python at the Django Girls Workshop
-================================================
-
-If you are a woman and want to learn how to make websites, we have good news
-for you: there's going to be a Django Girls Workshop the day after the
-conference!
-
-See https://djangogirls.org/rapperswil/ for more information.
 
 Want to Help?
 =============
