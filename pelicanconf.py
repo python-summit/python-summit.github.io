@@ -46,6 +46,7 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [
     ('Home', '/'),
     ('Register', '/pages/registration.html'),
+    ('Call for Venues', '/pages/call-for-venues.html'),
     ('Help us', '/pages/call-for-helpers.html'),
     ('Program', '/pages/program.html'),
     ('Recordings', '/pages/recordings.html'),
