@@ -9,30 +9,18 @@ Swiss Python Summit
 :tags: Conference, News
 :illustration: header.jpg
 
+Swiss Python Summit 2018
+========================
+
+It's official, The Swiss Python Summit 2018 will take place on **February 16th, 2018** at **HSR University of Applied Sciences in Rapperswil**.
+
 A Python Conference in Switzerland
 ==================================
-
-The Swiss Python Summit 2017 was a blast! We had magnificent talks and met lots of brilliant people. That's why we decided
-to have a new edition of the conference to take place on **February 16th, 2018** at a place to be defined. See the `call for Venues </pages/call-for-venues.html>`__.
 
 This summit is all about the programming language you love!
 Discover the wide field of Python applications, hear how others use the language
 and meet Swiss Pythonistas. The conference is suited for all skill levels,
 from early beginners to expert developers.
-
-Thank you!
-==========
-
-The 2017 edition of the conference is over and we had a blast.
-
-We'd like to thank all helpers, speakers, sponsors and attendees for their
-support. You all made this event possible!
-
-The slides of the talks are `already online </pages/recordings.html>`__. Videos
-will follow over the next few weeks. To stay up to date, check our website from
-time to time or `subscribe to our YouTube channel
-<https://www.youtube.com/channel/UC6vY6GlklV7cNt5MohPWdSw>`__.
-
 
 History
 =======
@@ -51,6 +39,11 @@ Program `SPS 2017 </pages/program2017.html>`__.
 
 .. image:: /images/hsr.jpg
     :alt: Aerial view of HSR
+
+The slides of the talks are `already online </pages/recordings.html>`__. Videos
+will follow over the next few weeks. To stay up to date, check our website from
+time to time or `subscribe to our YouTube channel
+<https://www.youtube.com/channel/UC6vY6GlklV7cNt5MohPWdSw>`__.
 
 Want to Help?
 =============

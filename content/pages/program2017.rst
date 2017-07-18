@@ -1,8 +1,8 @@
 Program 2017
 ############
 
-:slug: program
-:summary: Program
+:slug: program 2017
+:summary: Program 2017
 
 Program
 =======
@@ -177,7 +177,7 @@ to put together an amazing and very diverse program!
         });
     </script>
 
-Aperitif 
+Aperitif
 ========
 
 Right after the conference we'll have a small aperitif at HSR's cafeteria,
