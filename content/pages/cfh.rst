@@ -69,7 +69,7 @@ If you are interested, contact us at `info@python-summit.ch
 Platinum Sponsor (2500 CHF)
 ---------------------------
 
-** The platinum spot has already been filled. **
+**The platinum spot has already been filled.**
 
 * Has the logo placed on all promotional materials in the largest size
   (relative to other sponsors).
@@ -88,7 +88,7 @@ Platinum Sponsor (2500 CHF)
 Gold Sponsor (1250 CHF)
 -----------------------
 
-** 1/2 spots still available. **
+**1/2 spots still available.**
 
 * Has the logo placed on all promotional materials in medium size
   (relative to other sponsors).
