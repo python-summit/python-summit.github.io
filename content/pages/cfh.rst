@@ -100,7 +100,7 @@ Gold Sponsor (1250 CHF)
 Silver Sponsor (625 CHF)
 ------------------------
 
-**2/3 spots still available.**
+**1/3 spots still available.**
 
 .. raw:: html
 
