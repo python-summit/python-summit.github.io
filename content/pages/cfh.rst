@@ -47,3 +47,64 @@ be a symbolic token that helps us avoid gathering passive members.
 
 You can find the bylaws of the association here, if you are into this kind
 of stuff: `<https://github.com/SwissPy/swisspycon/tree/master/association>`_.
+
+Help us by Sponsoring our Event
+===============================
+
+Last year's conference drew almost 200 attendees interested in programming with
+Python. That's 200 people that will see your logo and associate your company
+with our conference.
+
+From the feedback we got we can say with confidence, that this is a very good
+thing. Who knows, your next hire might find out about you during our
+conference.
+
+We try to keep the list of our sponsors exclusive, because no-one remembers
+one company out of a hundred. So if you are interested, act fast as the
+spots on our sponsorship plans won't be available for long.
+
+If you are interested, contact us at `info@python-summit.ch
+<mailto:info@python-summit.ch?subject=Sponsorship%20Request>`__.
+
+Platinum Sponsor (2500 CHF)
+---------------------------
+
+**1/1 spot still available.**
+
+* Has the logo placed on all promotional materials in the largest size
+  (relative to other sponsors).
+
+* May send one mass-email to all attendees through us (we won't share any addresses).
+
+* Gets a five minute spot at the end of the conference, before closing remarks,
+  to give a short presentation.
+
+* Gets a booth spot and first pick as to its location.
+
+* Gets five company tickets.
+
+* Is named official sponsor of the afterparty.
+
+Gold Sponsor (1250 CHF)
+-----------------------
+
+**2/2 spots still available.**
+
+* Has the logo placed on all promotional materials in medium size
+  (relative to other sponsors).
+
+* Gets a booth spot.
+
+* Gets three company tickets.
+
+Silver Sponsor (625 CHF)
+------------------------
+
+**2/3 spots still available.**
+
+.. raw:: html
+
+    <ul>
+        <!-- reSt will not accept a single bullet list for some reason -->
+        <li>Has the logo placed on all promotional materials in small size  (relative to other sponsors).</li>
+    </ul>
