@@ -13,7 +13,8 @@ We are delighted to announce the call for proposals for our conference is open! 
 - 30 to 40 minutes duration plus 10 minutes for Q&A.
 - Unless you explicitly tell us otherwise we assume you agree that your presentations can be video recorded and posted to the Internet.
 - We plan to make the entry fee voluntary for speakers, but this will be confirmed once we know more about our definitive budget.
-- Unfortunately we cannot cover any expenses or traveling costs.
+- Unfortunately we cannot cover any expenses or traveling costs, because we try
+  to keep ticket prices very affordable.
 - You can edit your proposal while the CfP remains open.
 - You may submit several proposals.
 - You may request to have a coach or mentor to help you prepare your talk.
