@@ -59,34 +59,34 @@ Our conference is proudly sponsored by companies that use Python every day.
 
 .. raw:: html
 
-    <div style="margin-bottom: 1.5em">
-        <a href="https://www.4teamwork.ch">
-            <img style="width: 90%;" src="/images/4teamwork.svg" alt="4Teamwork Logo">
+    <div style="margin-bottom: -4vw; margin-top: 4rem;">
+        <a href="https://www.89grad.ch">
+            <img style="width: 80%;" src="/images/89grad.svg" alt="89grad Logo">
         </a>
     </div>
 
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5em">
-        <div style="width: 45%;">
-            <a href="https://www.sensirion.com">
-                <img style="width: 100%" src="/images/sensirion.svg" alt="Sensirion Logo">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5vw; width: 80%">
+        <div style="width: 30%;">
+            <a href="https://vshn.ch">
+                <img style="width: 100%" src="/images/vshn.svg" alt="VSHN Logo">
             </a>
         </div>
-        <div style="width: 45%; ">
+        <div style="width: 55%;">
             <a href="https://www.seantis.ch">
-                <img style="width: 75%" src="/images/seantis.svg" alt="Seantis Logo">
+                <img style="width: 100%" src="/images/seantis.svg" alt="Seantis Logo">
             </a>
         </div>
     </div>
 
-    <div style="display: flex; align-items: left;">
-        <div style="width: 30.5%">
-            <a href="https://www.hsr.ch">
-                <img style="width: 100%; position: relative; top: -10px;" src="/images/hsr.svg" alt="HSR Logo">
+    <div style="display: flex; align-items: left; width: 80%">
+        <div style="width: 50%">
+            <a href="https://www.cloudscale.ch">
+                <img style="width: 57.5%;" src="/images/cloudscale.svg" alt="Cloudscale.ch Logo">
             </a>
         </div>
-        <div style="width: 22.5%">
-            <a href="https://vshn.ch">
-                <img style="width: 57.5%; margin-left: 40px;" src="/images/vshn.svg" alt="VSHN Logo">
+        <div style="width: 30.5%">
+            <a href="https://www.hsr.ch">
+                <img style="width: 100%; position: relative; top: -5px;" src="/images/hsr.svg" alt="HSR Logo">
             </a>
         </div>
     </div>
