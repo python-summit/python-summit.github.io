@@ -702,8 +702,8 @@ blockquote{font-size:15px;opacity:.65}.comments{margin-top:40px}.mr5{margin-righ
 .gradient{background-color:#356689}.footer{background-color:#333;font-size:14px;font-weight:300;text-align:left;color:#fff}
 .footer-title{text-transform:uppercase;margin-bottom:3px;font-weight:600;font-size:12px}.footer-container{padding-top:20px;padding-bottom:20px}
 .footer a{color:#fff}#thank-you{background-color:#FFF4AC;padding:1em;margin:0 0 1em}#thank-you p{font-size:1em;margin:0 0 .5em 0}
-#thank-you h2{margin:0 0 1em 0}#thank-you h2:after{display:none}#call-for-proposals,#registration-is-now-open{background-color:#FFF4AC;padding:1em;margin:0 0 1em}
-#call-for-proposals p,#registration-is-now-open p{font-size:1em;margin:0 0 .5em 0}#call-for-proposals h2,#registration-is-now-open h2{margin:0 0 1em 0}
+#thank-you h2{margin:0 0 1em 0}#thank-you h2:after{display:none}#registration-is-now-open,#call-for-proposals{background-color:#FFF4AC;padding:1em;margin:0 0 1em}
+#registration-is-now-open p,#call-for-proposals p{font-size:1em;margin:0 0 .5em 0}#registration-is-now-open h2,#call-for-proposals h2{margin:0 0 1em 0}
 .map{width:100%;min-height:500px}table#program{border:0;margin-top:40px;width:100%}table#program .col-time{width:120px}
 table#program td{vertical-align:top}table#program td.topspace{padding-top:10px}table#program th,table#program td{padding:3px;border-bottom:1px solid #ddd}
 table#program .meta{font-style:italic}table#program .description{font-size:.9em;padding-top:1em}table#program .description strong{display:inline-block;margin-top:1em}

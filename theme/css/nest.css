@@ -460,18 +460,18 @@ blockquote{
 }
 
 /* highlight certain announcements */
-#call-for-proposals, #registration-is-now-open {
+#registration-is-now-open, #call-for-proposals {
     background-color: #FFF4AC;
     padding: 1em;
     margin: 0 0 1em;
 }
 
-#call-for-proposals p, #registration-is-now-open p {
+#registration-is-now-open p, #call-for-proposals p {
     font-size: 1em;
     margin: 0 0 0.5em 0;
 }
 
-#call-for-proposals h2, #registration-is-now-open h2 {
+#registration-is-now-open h2, #call-for-proposals h2 {
     margin: 0 0 1em 0;
 }
 
