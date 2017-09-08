@@ -13,7 +13,7 @@ This money will be used for promotion, drinks and snacks.
 We are a `non-profit association <https://github.com/SwissPy/SPSA/blob/master/bylaws.md>`_: any extra proceeds
 will be used to organize the next edition of the Swiss Python Summit!
 
-Save your spot at the conference now: `Proceed to Registration! <http://tickets.python-summit.ch>`_
+Save your spot at the conference now: `Proceed to Registration! <https://ti.to/swiss-python-summit-association/sps18/>`_
 
 
 Terms and Conditions
