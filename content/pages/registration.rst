@@ -20,10 +20,6 @@ Terms and Conditions
 --------------------
 
 * Tickets can be purchased by credit card following the link above. Please contact us if you wish to pay by bank transfer.
-* All tickets include a free lunch at the HSR cafeteria.
-* Early bird tickets are available until the publication of the conference program by mid december. Ticket prices are then increasing by 50%.
+* All tickets include a free lunch at the [HSR mensa](http://hochschule-rapperswil.sv-restaurant.ch/de/menuplan/mensa/).
+* Early bird tickets are available until the publication of the conference program by mid December. Ticket prices will then increase by 50%.
 * In case of unforeseen cancellation of the event there will be no refund. Any extra proceeds will be donated to the Python Software Foundation.
-
-
-
-
