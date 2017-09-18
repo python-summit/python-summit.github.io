@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="210" height="84" viewBox="0 0 210 84">
   <g fill="none" fill-rule="evenodd" transform="translate(0 .832)">
-    <polygon fill="#FFFFFF" points=".068 0 209.818 0 209.818 82.105 .068 82.105"/>
+    <polygon points=".068 0 209.818 0 209.818 82.105 .068 82.105"/>
     <polygon fill="#3B79A8" points="14.341 11.627 28.572 11.627 28.572 25.87 14.341 25.87"/>
     <polygon fill="#3B79A8" points="14.341 37.397 28.572 37.397 28.572 51.637 14.341 51.637"/>
     <polygon fill="#3B79A8" points="38.925 37.397 53.156 37.397 53.156 51.637 38.925 51.637"/>
