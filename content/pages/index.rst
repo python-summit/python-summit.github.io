@@ -72,35 +72,45 @@ Our conference is proudly sponsored by companies that use Python every day.
 
 .. raw:: html
 
-    <div style="margin-bottom: -4vw; margin-top: 4rem;">
-        <a href="https://www.89grad.ch">
-            <img style="width: 80%;" src="/images/89grad.svg" alt="89grad Logo">
-        </a>
-    </div>
+    <div style="text-align: center; background-color: #f5f5f5; border: 1px solid #efefef; padding-bottom: 2.5rem;">
+        <div style="width: 75%; display: inline-block">
+            <div style="margin-bottom: -4vw; margin-top: 4rem;">
+                <a href="https://www.89grad.ch">
+                    <img style="width: 100%;" src="/images/89grad.svg" alt="89grad Logo">
+                </a>
+            </div>
 
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5vw; width: 80%">
-        <div style="width: 30%;">
-            <a href="https://vshn.ch">
-                <img style="width: 100%" src="/images/vshn.svg" alt="VSHN Logo">
-            </a>
-        </div>
-        <div style="width: 55%;">
-            <a href="https://www.seantis.ch">
-                <img style="width: 100%" src="/images/seantis.svg" alt="Seantis Logo">
-            </a>
-        </div>
-    </div>
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5vw">
+                <div style="width: 30%;">
+                    <a href="https://vshn.ch">
+                        <img style="width: 100%" src="/images/vshn.svg" alt="VSHN Logo">
+                    </a>
+                </div>
+                <div style="width: 55%;">
+                    <a href="https://www.seantis.ch">
+                        <img style="width: 100%" src="/images/seantis.svg" alt="Seantis Logo">
+                    </a>
+                </div>
+            </div>
 
-    <div style="display: flex; align-items: left; width: 80%">
-        <div style="width: 50%">
-            <a href="https://www.cloudscale.ch">
-                <img style="width: 57.5%;" src="/images/cloudscale.svg" alt="Cloudscale.ch Logo">
-            </a>
-        </div>
-        <div style="width: 30.5%">
-            <a href="https://www.hsr.ch">
-                <img style="width: 100%; position: relative; top: -5px;" src="/images/hsr.svg" alt="HSR Logo">
-            </a>
+            <div style="display: flex; align-items: left; justify-content: space-between;">
+                <div style="width: 30%">
+                    <a href="https://www.cloudscale.ch">
+                        <img style="width: 100%;" src="/images/cloudscale.svg" alt="Cloudscale.ch Logo">
+                    </a>
+                </div>
+                <div style="width: 30%">
+                    <a href="https://www.hsr.ch">
+                        <img style="width: 100%; position: relative; top: -5px;" src="/images/hsr.svg" alt="HSR Logo">
+                    </a>
+                </div>
+
+                <div style="width: 30%">
+                    <a href="https://www.4teamwork.ch">
+                        <img style="width: 100%; position: relative;" src="/images/4teamwork.svg" alt="4teamwork" Logo">
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 
