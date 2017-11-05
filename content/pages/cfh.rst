@@ -14,7 +14,7 @@ We can always use more helpers to chair sessions, help at the registration desk,
 take photos, videotape the talks or man our twitter account for some live tweeting.
 
 Being a helper on the day of the conference is the best way to really engage
-in the conference and to meet people without the awkard "so what do you do?".
+in the conference and to meet people without the awkward "so what do you do?".
 
 .. class:: bold
 
