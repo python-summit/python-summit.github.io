@@ -43,7 +43,7 @@ to put together an amazing and very diverse program!
                 </td>
             </tr>
             <tr>
-                <td>10:00 - 10:30</td>
+                <td>10:00 - 10:40</td>
                 <td>
                     Tim Head<br>
                     <a href="#">From Exploring Data Interactively to Creating Reproducible Pipelines</a>
