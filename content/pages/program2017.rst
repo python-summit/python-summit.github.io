@@ -1,11 +1,11 @@
 Program 2017
 ############
 
-:slug: program 2017
+:slug: program2017
 :summary: Program 2017
 
-Program
-=======
+Program 2017
+============
 
 It's been a difficult task to create a program, considering we received 38
 proposals and time only allows for a maximum of 9 slots. Many promising
