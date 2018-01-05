@@ -36,9 +36,16 @@ to put together an amazing and very diverse program!
                     Carina Haupt<br>
                     <a href="#">Rocket Science and Software Engineering</a>
                     <p class="description">
-                        Carina works at the German Aerospace Center (DLR) where she is a software engineering team lead. It is her mission to improve the software quality at the DLR. But why is this necessary? We made it to space, to the moon, to mars! Long before anyone even talked about software engineering!
+                        Carina works at the German Aerospace Center (DLR) where she is a
+                        software engineering team lead. It is her mission to improve the
+                        software quality at the DLR. But why is this necessary? After all we
+                        went to the moon with less computer power than of a modern smartphone!
+                        While there are a lot of success stories, there are also those stories
+                        where software failures resulted in mission failures.
                         <br><br>
-                        This talk will present various failures in aerospace engineering. What went wrong and lessons learned.
+                        This talk gives an overview of some of these unfortunate programming
+                        errors, their consequences, and how modern developement tries to prevent
+                        history from repeating.
                     </p>
                 </td>
             </tr>
