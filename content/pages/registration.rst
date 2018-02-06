@@ -15,6 +15,7 @@ will be used to organize the next edition of the Swiss Python Summit!
 
 Save your spot at the conference now: `Proceed to Registration! <https://ti.to/swiss-python-summit-association/sps18/>`_
 
+**Registration CLOSES the 10th of February.**
 
 Terms and Conditions
 --------------------
