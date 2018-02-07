@@ -1,3 +1,0 @@
-pelican==3.6.2
-ghp-import==0.4.1
-cssmin==0.2.0

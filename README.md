@@ -15,20 +15,21 @@ Switch to the `source` branch.
 
 Install dependencies.
 
-    pip install -r requirements.txt
+    pipenv install
 
 Run the devserver.
 
-    make devserver
+    pipenv run make devserver
 
-Now you can browse the website at `http://localhost:8000/`.
+Now you can browse the website at `http://localhost:8000/`. To stop the server,
+run `pipenv run make stopserver`.
 
 ## Deployment
 
 For deploying the website, the rendered HTML needs to be pushed to the `master`
 branch. This can be done via the `Makefile` and the `ghp-import` script:
 
-    make clean html
-    make github
+    pipenv run make clean html
+    pipenv run make github
 
 The current version should be live now.
