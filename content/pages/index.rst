@@ -33,14 +33,17 @@ Discover the wide field of Python applications, hear how others use the language
 and meet Swiss Pythonistas. The conference is suited for all skill levels,
 from early beginners to expert developers.
 
-Location
-========
+Location / Venue
+================
 
 The conference will take place at the beautiful campus of the `HSR University of
 Applied Sciences Rapperswil <https://www.hsr.ch/>`__, right next to the lake!
 
 .. image:: /images/hsr.jpg
     :alt: Aerial view of HSR
+
+You can find more information on the `venue page
+<http://www.python-summit.ch/pages/venue.html>`__.
 
 History
 =======
