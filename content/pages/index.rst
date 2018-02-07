@@ -14,7 +14,7 @@ Registration is Now Open
 
 Want to attend the Swiss Python Summit 2018? `Click here to register <./pages/registration.html>`__.
 
-**Registration CLOSES the 10th of February.**
+**Registration CLOSES the 10th of February. There will be no on-site tickets sold.**
 
 Swiss Python Summit 2018
 ========================
