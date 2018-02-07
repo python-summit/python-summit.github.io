@@ -29,7 +29,6 @@ run `pipenv run make stopserver`.
 For deploying the website, the rendered HTML needs to be pushed to the `master`
 branch. This can be done via the `Makefile` and the `ghp-import` script:
 
-    pipenv run make clean html
-    pipenv run make github
+    pipenv run make clean github
 
 The current version should be live now.
