@@ -16,17 +16,14 @@ Want to attend the Swiss Python Summit 2018? `Click here to register <./pages/re
 
 **Registration CLOSES the 10th of February.**
 
-Call for Proposals Closed
-=========================
-
-The call for proposals has been closed. Thank you for your submissions. We are reviewing them and we will be posting a definite schedule by mid-december.
-
 Swiss Python Summit 2018
 ========================
 
-It's official, The Swiss Python Summit 2018 will take place on **February 16th, 2018** at **HSR University of Applied Sciences in Rapperswil**.
+It's official, The Swiss Python Summit 2018 will take place on **February 16th,
+2018** at **HSR University of Applied Sciences in Rapperswil**.
 
 The event will last the whole day from around 8 am until 6 pm (give or take).
+You can take a look at `our program </pages/program.html>`__!
 
 A Python Conference in Switzerland
 ==================================
