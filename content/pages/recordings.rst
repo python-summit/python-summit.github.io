@@ -7,8 +7,8 @@ Talk Recordings
 Python Summit Talk Recordings
 =============================
 
-We recorded all the talks at the 2017 edition of our conference. Over the next
-few weeks, we will publish the videos and accompanying slides here!
+We record all the talks at our conference. You can find the recordings as well
+as the talk slides on this page!
 
 2017
 ----
