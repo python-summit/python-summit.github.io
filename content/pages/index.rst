@@ -33,6 +33,15 @@ Discover the wide field of Python applications, hear how others use the language
 and meet Swiss Pythonistas. The conference is suited for all skill levels,
 from early beginners to expert developers.
 
+Location
+========
+
+The conference will take place at the beautiful campus of the `HSR University of
+Applied Sciences Rapperswil <https://www.hsr.ch/>`__, right next to the lake!
+
+.. image:: /images/hsr.jpg
+    :alt: Aerial view of HSR
+
 History
 =======
 
@@ -46,15 +55,6 @@ You can find program from previous years online:
 
 * 2016: `Program </pages/program2016.html>`__ / `recordings </pages/recordings.html>`__
 * 2017: `Program </pages/program2017.html>`__ / `recordings </pages/recordings.html>`__
-
-Location
-========
-
-The conference will take place at the beautiful campus of the `HSR University of
-Applied Sciences Rapperswil <https://www.hsr.ch/>`__, right next to the lake!
-
-.. image:: /images/hsr.jpg
-    :alt: Aerial view of HSR
 
 Want to Help?
 =============
