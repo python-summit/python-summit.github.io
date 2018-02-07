@@ -42,22 +42,22 @@ History
 After the nice experience of EuroPython 2015, a small group of enthusiasts came
 up with the idea of organizing a Swiss Python Conference. After a few meetings
 and discussions, we organized a small, one-day, single-track and very-low-cost
-event. We expected around 50 people, but 130 signed up. It was a great success.
+event. We expected around 50 people, but 130 signed up. It was a great success,
+so we decided to continue organizing the conference.
 
 You can find program from previous years online:
 
-Program `SPS 2016 </pages/program2016.html>`__. Talk recordings and slids can be found on the `recordings
-</pages/recordings.html>`__ page.
+* 2016: `Program </pages/program2016.html>`__ / `recordings </pages/recordings.html>`__
+* 2017: `Program </pages/program2017.html>`__ / `recordings </pages/recordings.html>`__
 
-Program `SPS 2017 </pages/program2017.html>`__.
+Location
+========
+
+The conference will take place at the beautiful campus of the `HSR University of
+Applied Sciences Rapperswil <https://www.hsr.ch/>`__, right next to the lake!
 
 .. image:: /images/hsr.jpg
     :alt: Aerial view of HSR
-
-The slides of the talks are `already online </pages/recordings.html>`__. Videos
-will follow over the next few weeks. To stay up to date, check our website from
-time to time or `subscribe to our YouTube channel
-<https://www.youtube.com/channel/UC6vY6GlklV7cNt5MohPWdSw>`__.
 
 Want to Help?
 =============
