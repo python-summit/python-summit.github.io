@@ -45,7 +45,7 @@ NEST_CSS_MINIFY = False
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [
     ('Home', '/'),
-    ('Register', '/pages/registration.html'),
+    #('Register', '/pages/registration.html'),
     #('Call for Proposals', '/pages/call-for-proposals.html'),
     ('Call for Venues', '/pages/call-for-venues.html'),
     ('Help us', '/pages/call-for-helpers.html'),
