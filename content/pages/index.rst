@@ -1,23 +1,25 @@
 Swiss Python Summit
 ###################
 
-:date: 2015-10-03 10:20
+:date: 2018-02-16 20:00
 :slug: index_page
 :authors: ccdesales
 :save_as: index.html
 :tags: Conference, News
 :illustration: header.jpg
 
-Registration Closed
-======================
+Python Summit 2018 is Over
+==========================
 
-The registration ended on the 10th of February. **There will be no ticket sale on-site.**
+The 2018 edition of the Swiss Python is over. We had the chance to watch 9
+great talks from different fields, all having in common that they had some
+connection to the Python programming language.
 
-We're looking forward to a great conference with you! **Please make sure to
-bring your ticket with you, either on paper or in digital form.**
+Thanks to all helpers and also to the attendees, you all made this conference
+possible!
 
-If you don't know yet how you can get to the conference location, take a look at
-the `venue page </pages/venue.html>`__.
+The slides and talk recordings will be uploaded over the next days to weeks.
+Please check out the `recordings </pages/recordings.html>`__.
 
 Swiss Python Summit 2018
 ========================
