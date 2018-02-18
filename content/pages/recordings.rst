@@ -26,6 +26,7 @@ coming days or weeks.
 - Gabriel Krummenacher / Beat Wettstein – Leveraging Neural Networks and Python to Forecast Train Delays in the Swiss Railway Network
 - Iacopo Spalletti – Real Time Django
 - Sarah Mühlemann – SpyPi: An Attempt to Get Students Into Data Security
+  [`slides <18-6-slides_>`_]
 - Amit Kumar – Lets Talk About GIL!
   [`slides <18-7-slides_>`_ / `code <18-7-code_>`_]
 - Josef Spillner – Serverless Computing: FaaSter, Better, Cheaper and More Pythonic
@@ -36,6 +37,7 @@ coming days or weeks.
 .. _18-1-youtube: https://www.youtube.com/watch?list=PL4_MBPz5hOsLqrlGjX_emY4KMEfvqG0jG&v=QiHX1Rn2IT4
 .. _18-3-slides: https://mybinder.org/v2/gh/das-g/comprehensions-talk/master
 .. _18-3-code: https://gitlab.com/das-g/comprehensions-talk
+.. _18-6-slides: /files/sarah-muehlemann-spypi.pdf
 .. _18-7-slides: /files/amit-kumar-gil.pdf
 .. _18-7-code: https://github.com/aktech/gil_talk
 .. _18-8-slides: /files/josef-spillner-serverless-computing.pdf
