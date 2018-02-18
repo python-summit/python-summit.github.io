@@ -16,7 +16,9 @@ as the talk slides on this page!
 Talk recordings and slides that are not yet listed here will be added over the
 coming days or weeks.
 
-- Carina Haupt – Rocket Science and Software Engineering
+`Youtube Playlist <https://www.youtube.com/playlist?list=PL4_MBPz5hOsLqrlGjX_emY4KMEfvqG0jG>`__
+
+- `Carina Haupt – Rocket Science and Software Engineering <18-1-youtube_>`_
   [`slides <18-1-slides_>`_]
 - Tim Head – From Exploring Data Interactively to Creating Reproducible Pipelines
 - Raphael Das Gupta – Comprehensions: Origin, History, Use
@@ -31,6 +33,7 @@ coming days or weeks.
 - Peter Hoffmann – 12 Factor Apps for Data-Science with Python
 
 .. _18-1-slides: /files/carina-haupt-hacking-for-space.pdf
+.. _18-1-youtube: https://www.youtube.com/watch?list=PL4_MBPz5hOsLqrlGjX_emY4KMEfvqG0jG&v=QiHX1Rn2IT4
 .. _18-3-slides: https://mybinder.org/v2/gh/das-g/comprehensions-talk/master
 .. _18-3-code: https://gitlab.com/das-g/comprehensions-talk
 .. _18-7-slides: /files/amit-kumar-gil.pdf
