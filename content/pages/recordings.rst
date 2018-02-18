@@ -10,6 +10,33 @@ Python Summit Talk Recordings
 We record all the talks at our conference. You can find the recordings as well
 as the talk slides on this page!
 
+2018
+----
+
+Talk recordings and slides that are not yet listed here will be added over the
+coming days or weeks.
+
+- Carina Haupt – Rocket Science and Software Engineering
+  [`slides <18-1-slides_>`_]
+- Tim Head – From Exploring Data Interactively to Creating Reproducible Pipelines
+- Raphael Das Gupta – Comprehensions: Origin, History, Use
+  [`slides <18-3-slides_>`_ / `code <18-3-code_>`_]
+- Gabriel Krummenacher / Beat Wettstein – Leveraging Neural Networks and Python to Forecast Train Delays in the Swiss Railway Network
+- Iacopo Spalletti – Real Time Django
+- Sarah Mühlemann – SpyPi: An Attempt to Get Students Into Data Security
+- Amit Kumar – Lets Talk About GIL!
+  [`slides <18-7-slides_>`_ / `code <18-7-code_>`_]
+- Josef Spillner – Serverless Computing: FaaSter, Better, Cheaper and More Pythonic
+  [`slides <18-8-slides_>`_]
+- Peter Hoffmann – 12 Factor Apps for Data-Science with Python
+
+.. _18-1-slides: /files/carina-haupt-hacking-for-space.pdf
+.. _18-3-slides: https://mybinder.org/v2/gh/das-g/comprehensions-talk/master
+.. _18-3-code: https://gitlab.com/das-g/comprehensions-talk
+.. _18-7-slides: /files/amit-kumar-gil.pdf
+.. _18-7-code: https://github.com/aktech/gil_talk
+.. _18-8-slides: /files/josef-spillner-serverless-computing.pdf
+
 2017
 ----
 
