@@ -20,8 +20,8 @@ coming days or weeks.
 
 - `Carina Haupt – Rocket Science and Software Engineering <18-1-youtube_>`_
   [`slides <18-1-slides_>`_]
-- Tim Head – From Exploring Data Interactively to Creating Reproducible Pipelines
-- Raphael Das Gupta – Comprehensions: Origin, History, Use
+- `Tim Head – From Exploring Data Interactively to Creating Reproducible Pipelines <18-2-youtube_>`_
+- `Raphael Das Gupta – Comprehensions: Origin, History, Use <18-3-youtube_>`_
   [`slides <18-3-slides_>`_ / `code <18-3-code_>`_]
 - Gabriel Krummenacher / Beat Wettstein – Leveraging Neural Networks and Python to Forecast Train Delays in the Swiss Railway Network
 - Iacopo Spalletti – Real Time Django
@@ -35,6 +35,8 @@ coming days or weeks.
 
 .. _18-1-slides: /files/carina-haupt-hacking-for-space.pdf
 .. _18-1-youtube: https://www.youtube.com/watch?list=PL4_MBPz5hOsLqrlGjX_emY4KMEfvqG0jG&v=QiHX1Rn2IT4
+.. _18-2-youtube: https://www.youtube.com/watch?v=USb6ju7ApSs&list=PL4_MBPz5hOsLqrlGjX_emY4KMEfvqG0jG&index=2
+.. _18-3-youtube: https://www.youtube.com/watch?v=Qoy2iwWJKxY&list=PL4_MBPz5hOsLqrlGjX_emY4KMEfvqG0jG&index=3
 .. _18-3-slides: https://mybinder.org/v2/gh/das-g/comprehensions-talk/master
 .. _18-3-code: https://gitlab.com/das-g/comprehensions-talk
 .. _18-6-slides: /files/sarah-muehlemann-spypi.pdf
