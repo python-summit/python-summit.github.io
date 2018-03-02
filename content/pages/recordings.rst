@@ -24,12 +24,13 @@ coming days or weeks.
 - `Raphael Das Gupta – Comprehensions: Origin, History, Use <18-3-youtube_>`_
   [`slides <18-3-slides_>`_ / `code <18-3-code_>`_]
 - `Gabriel Krummenacher / Beat Wettstein – Leveraging Neural Networks and Python to Forecast Train Delays in the Swiss Railway Network <18-4-youtube_>`_
+  [`slides <18-4-slides_>`_]
 - `Iacopo Spalletti – Real Time Django <18-5-youtube_>`_
 - `Sarah Mühlemann – SpyPi: An Attempt to Get Students Into Data Security <18-6-youtube_>`_
   [`slides <18-6-slides_>`_]
 - `Amit Kumar – Let's Talk About GIL! <18-7-youtube_>`_
   [`slides <18-7-slides_>`_ / `code <18-7-code_>`_]
-- Josef Spillner – Serverless Computing: FaaSter, Better, Cheaper and More Pythonic
+- `Josef Spillner – Serverless Computing: FaaSter, Better, Cheaper and More Pythonic <18-8-youtube_>`_
   [`slides <18-8-slides_>`_]
 - Peter Hoffmann – 12 Factor Apps for Data-Science with Python
 
@@ -40,12 +41,14 @@ coming days or weeks.
 .. _18-3-slides: https://mybinder.org/v2/gh/das-g/comprehensions-talk/master
 .. _18-3-code: https://gitlab.com/das-g/comprehensions-talk
 .. _18-4-youtube: https://www.youtube.com/watch?v=Q0zftwVO3c8&index=4&list=PL4_MBPz5hOsLqrlGjX_emY4KMEfvqG0jG
+.. _18-4-slides: /files/gabriel-krummenacher-delay-forecast.pdf
 .. _18-5-youtube: https://www.youtube.com/watch?v=lt5l3idQX60&index=5&list=PL4_MBPz5hOsLqrlGjX_emY4KMEfvqG0jG
 .. _18-6-youtube: https://www.youtube.com/watch?v=bqLXCk7FXz0&index=6&list=PL4_MBPz5hOsLqrlGjX_emY4KMEfvqG0jG
 .. _18-6-slides: /files/sarah-muehlemann-spypi.pdf
 .. _18-7-youtube: https://www.youtube.com/watch?v=2JCQQR-IGAg&index=7&list=PL4_MBPz5hOsLqrlGjX_emY4KMEfvqG0jG
 .. _18-7-slides: /files/amit-kumar-gil.pdf
 .. _18-7-code: https://github.com/aktech/gil_talk
+.. _18-8-youtube: https://www.youtube.com/watch?v=BJERfqcN4vw&index=8&list=PL4_MBPz5hOsLqrlGjX_emY4KMEfvqG0jG
 .. _18-8-slides: /files/josef-spillner-serverless-computing.pdf
 
 2017
