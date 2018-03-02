@@ -32,7 +32,7 @@ coming days or weeks.
   [`slides <18-7-slides_>`_ / `code <18-7-code_>`_]
 - `Josef Spillner – Serverless Computing: FaaSter, Better, Cheaper and More Pythonic <18-8-youtube_>`_
   [`slides <18-8-slides_>`_]
-- Peter Hoffmann – 12 Factor Apps for Data-Science with Python
+- `Peter Hoffmann – 12 Factor Apps for Data-Science with Python <18-9-youtube_>`_
 
 .. _18-1-slides: /files/carina-haupt-hacking-for-space.pdf
 .. _18-1-youtube: https://www.youtube.com/watch?list=PL4_MBPz5hOsLqrlGjX_emY4KMEfvqG0jG&v=QiHX1Rn2IT4
@@ -50,6 +50,7 @@ coming days or weeks.
 .. _18-7-code: https://github.com/aktech/gil_talk
 .. _18-8-youtube: https://www.youtube.com/watch?v=BJERfqcN4vw&index=8&list=PL4_MBPz5hOsLqrlGjX_emY4KMEfvqG0jG
 .. _18-8-slides: /files/josef-spillner-serverless-computing.pdf
+.. _18-9-youtube: https://www.youtube.com/watch?v=TuO_W-tzlqs&index=9&list=PL4_MBPz5hOsLqrlGjX_emY4KMEfvqG0jG
 
 2017
 ----
