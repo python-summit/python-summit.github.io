@@ -1,16 +1,16 @@
-# swisspy.github.io
+# Swiss Python Summit Website
 
-Repository for the source code of the Swiss Python Conference web site.
+Repository for the source code of the Swiss Python website.
 
 ## Development
 
 Clone the repository.
 
-    git clone https://github.com/SwissPy/SwissPy.github.io
+    git clone https://github.com/python-summit/website
 
 Switch to the `source` branch.
 
-    cd SwissPy.github.io
+    cd website
     git checkout source
 
 Install dependencies.
