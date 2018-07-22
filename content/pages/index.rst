@@ -11,7 +11,7 @@ Swiss Python Summit
 Python Summit 2018 is Over
 ==========================
 
-The 2018 edition of the Swiss Python is over. We had the chance to watch 9
+The 2018 edition of the Swiss Python Summit is over. We had the chance to watch 9
 great talks from different fields, all having in common that they had some
 connection to the Python programming language.
 
