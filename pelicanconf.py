@@ -1,11 +1,11 @@
 AUTHOR = '@ccdesales'
 SITENAME = 'Swiss Python Summit'
 SITESUBTITLE = 'A Swiss Python Conference'
-SITEURL = 'https://swisspy.github.io/swisspycon/'
+SITEURL = 'https://www.python-summit.ch/'
 CONFDATE = 'February 16th, 2018'
 
 PATH = 'content'
-OUTPUT_PATH="output"
+OUTPUT_PATH = "output"
 
 TIMEZONE = 'Europe/Zurich'
 

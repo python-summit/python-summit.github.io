@@ -46,4 +46,4 @@ This fee is used to cover the running costs of the association and it is meant t
 be a symbolic token that helps us avoid gathering passive members.
 
 You can find the bylaws of the association here, if you are into this kind
-of stuff: `<https://github.com/SwissPy/swisspycon/tree/master/association>`_.
+of stuff: `<https://github.com/python-summit/SPSA/>`_.

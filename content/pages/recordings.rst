@@ -13,8 +13,7 @@ as the talk slides on this page!
 2018
 ----
 
-Talk recordings and slides that are not yet listed here will be added over the
-coming days or weeks.
+Slides that are not yet listed here will be added over the coming days or weeks.
 
 `Youtube Playlist <https://www.youtube.com/playlist?list=PL4_MBPz5hOsLqrlGjX_emY4KMEfvqG0jG>`__
 

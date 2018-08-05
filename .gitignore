@@ -3,3 +3,4 @@ vpelican/*
 *.pyc
 *.pid
 output/
+.mypy_cache/
