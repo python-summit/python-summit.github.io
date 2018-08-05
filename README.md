@@ -6,11 +6,11 @@ Repository for the source code of the Swiss Python website.
 
 Clone the repository.
 
-    git clone https://github.com/python-summit/website
+    git clone https://github.com/python-summit/python-summit.github.io
 
 Switch to the `source` branch.
 
-    cd website
+    cd python-summit.github.io
     git checkout source
 
 Install dependencies.
